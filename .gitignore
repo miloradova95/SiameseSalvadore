@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Python bytecode — auto-generated
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB will generate its persistence files here
+data/chroma_store/
+
