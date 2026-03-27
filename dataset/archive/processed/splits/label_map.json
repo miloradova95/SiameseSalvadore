@@ -9,8 +9,12 @@
             "paintings": 328
         }
     },
-    "alfred_sisley": {
+    "albrecht_duooarer": {
         "label": 1,
+        "metadata": {}
+    },
+    "alfred_sisley": {
+        "label": 2,
         "metadata": {
             "name": "Alfred Sisley",
             "genre": "Impressionism",
@@ -20,7 +24,7 @@
         }
     },
     "amedeo_modigliani": {
-        "label": 2,
+        "label": 3,
         "metadata": {
             "name": "Amedeo Modigliani",
             "genre": "Expressionism",
@@ -30,7 +34,7 @@
         }
     },
     "andrei_rublev": {
-        "label": 3,
+        "label": 4,
         "metadata": {
             "name": "Andrei Rublev",
             "genre": "Byzantine Art",
@@ -40,7 +44,7 @@
         }
     },
     "andy_warhol": {
-        "label": 4,
+        "label": 5,
         "metadata": {
             "name": "Andy Warhol",
             "genre": "Pop Art",
@@ -50,7 +54,7 @@
         }
     },
     "camille_pissarro": {
-        "label": 5,
+        "label": 6,
         "metadata": {
             "name": "Camille Pissarro",
             "genre": "Impressionism,Post-Impressionism",
@@ -60,7 +64,7 @@
         }
     },
     "caravaggio": {
-        "label": 6,
+        "label": 7,
         "metadata": {
             "name": "Caravaggio",
             "genre": "Baroque",
@@ -70,7 +74,7 @@
         }
     },
     "claude_monet": {
-        "label": 7,
+        "label": 8,
         "metadata": {
             "name": "Claude Monet",
             "genre": "Impressionism",
@@ -80,7 +84,7 @@
         }
     },
     "diego_rivera": {
-        "label": 8,
+        "label": 9,
         "metadata": {
             "name": "Diego Rivera",
             "genre": "Social Realism,Muralism",
@@ -90,7 +94,7 @@
         }
     },
     "diego_velazquez": {
-        "label": 9,
+        "label": 10,
         "metadata": {
             "name": "Diego Velazquez",
             "genre": "Baroque",
@@ -100,7 +104,7 @@
         }
     },
     "edgar_degas": {
-        "label": 10,
+        "label": 11,
         "metadata": {
             "name": "Edgar Degas",
             "genre": "Impressionism",
@@ -110,7 +114,7 @@
         }
     },
     "edouard_manet": {
-        "label": 11,
+        "label": 12,
         "metadata": {
             "name": "Edouard Manet",
             "genre": "Realism,Impressionism",
@@ -120,7 +124,7 @@
         }
     },
     "edvard_munch": {
-        "label": 12,
+        "label": 13,
         "metadata": {
             "name": "Edvard Munch",
             "genre": "Symbolism,Expressionism",
@@ -130,7 +134,7 @@
         }
     },
     "el_greco": {
-        "label": 13,
+        "label": 14,
         "metadata": {
             "name": "El Greco",
             "genre": "Mannerism",
@@ -140,7 +144,7 @@
         }
     },
     "eugene_delacroix": {
-        "label": 14,
+        "label": 15,
         "metadata": {
             "name": "Eugene Delacroix",
             "genre": "Romanticism",
@@ -150,7 +154,7 @@
         }
     },
     "francisco_goya": {
-        "label": 15,
+        "label": 16,
         "metadata": {
             "name": "Francisco Goya",
             "genre": "Romanticism",
@@ -160,7 +164,7 @@
         }
     },
     "frida_kahlo": {
-        "label": 16,
+        "label": 17,
         "metadata": {
             "name": "Frida Kahlo",
             "genre": "Primitivism,Surrealism",
@@ -170,7 +174,7 @@
         }
     },
     "georges_seurat": {
-        "label": 17,
+        "label": 18,
         "metadata": {
             "name": "Georges Seurat",
             "genre": "Post-Impressionism",
@@ -180,7 +184,7 @@
         }
     },
     "giotto_di_bondone": {
-        "label": 18,
+        "label": 19,
         "metadata": {
             "name": "Giotto di Bondone",
             "genre": "Proto Renaissance",
@@ -190,7 +194,7 @@
         }
     },
     "gustav_klimt": {
-        "label": 19,
+        "label": 20,
         "metadata": {
             "name": "Gustav Klimt",
             "genre": "Symbolism,Art Nouveau",
@@ -200,7 +204,7 @@
         }
     },
     "gustave_courbet": {
-        "label": 20,
+        "label": 21,
         "metadata": {
             "name": "Gustave Courbet",
             "genre": "Realism",
@@ -210,7 +214,7 @@
         }
     },
     "henri_de_toulouse_lautrec": {
-        "label": 21,
+        "label": 22,
         "metadata": {
             "name": "Henri de Toulouse-Lautrec",
             "genre": "Post-Impressionism",
@@ -220,7 +224,7 @@
         }
     },
     "henri_matisse": {
-        "label": 22,
+        "label": 23,
         "metadata": {
             "name": "Henri Matisse",
             "genre": "Impressionism,Post-Impressionism",
@@ -230,7 +234,7 @@
         }
     },
     "henri_rousseau": {
-        "label": 23,
+        "label": 24,
         "metadata": {
             "name": "Henri Rousseau",
             "genre": "Primitivism",
@@ -240,7 +244,7 @@
         }
     },
     "hieronymus_bosch": {
-        "label": 24,
+        "label": 25,
         "metadata": {
             "name": "Hieronymus Bosch",
             "genre": "Northern Renaissance",
@@ -250,7 +254,7 @@
         }
     },
     "jackson_pollock": {
-        "label": 25,
+        "label": 26,
         "metadata": {
             "name": "Jackson Pollock",
             "genre": "Abstract Expressionism",
@@ -260,7 +264,7 @@
         }
     },
     "jan_van_eyck": {
-        "label": 26,
+        "label": 27,
         "metadata": {
             "name": "Jan van Eyck",
             "genre": "Northern Renaissance",
@@ -270,7 +274,7 @@
         }
     },
     "joan_miro": {
-        "label": 27,
+        "label": 28,
         "metadata": {
             "name": "Joan Miro",
             "genre": "Surrealism",
@@ -280,7 +284,7 @@
         }
     },
     "kazimir_malevich": {
-        "label": 28,
+        "label": 29,
         "metadata": {
             "name": "Kazimir Malevich",
             "genre": "Suprematism",
@@ -290,7 +294,7 @@
         }
     },
     "leonardo_da_vinci": {
-        "label": 29,
+        "label": 30,
         "metadata": {
             "name": "Leonardo da Vinci",
             "genre": "High Renaissance",
@@ -300,7 +304,7 @@
         }
     },
     "marc_chagall": {
-        "label": 30,
+        "label": 31,
         "metadata": {
             "name": "Marc Chagall",
             "genre": "Primitivism",
@@ -310,7 +314,7 @@
         }
     },
     "michelangelo": {
-        "label": 31,
+        "label": 32,
         "metadata": {
             "name": "Michelangelo",
             "genre": "High Renaissance",
@@ -320,7 +324,7 @@
         }
     },
     "mikhail_vrubel": {
-        "label": 32,
+        "label": 33,
         "metadata": {
             "name": "Mikhail Vrubel",
             "genre": "Symbolism",
@@ -330,7 +334,7 @@
         }
     },
     "pablo_picasso": {
-        "label": 33,
+        "label": 34,
         "metadata": {
             "name": "Pablo Picasso",
             "genre": "Cubism",
@@ -340,7 +344,7 @@
         }
     },
     "paul_cezanne": {
-        "label": 34,
+        "label": 35,
         "metadata": {
             "name": "Paul Cezanne",
             "genre": "Post-Impressionism",
@@ -350,7 +354,7 @@
         }
     },
     "paul_gauguin": {
-        "label": 35,
+        "label": 36,
         "metadata": {
             "name": "Paul Gauguin",
             "genre": "Symbolism,Post-Impressionism",
@@ -360,7 +364,7 @@
         }
     },
     "paul_klee": {
-        "label": 36,
+        "label": 37,
         "metadata": {
             "name": "Paul Klee",
             "genre": "Expressionism,Abstractionism,Surrealism",
@@ -370,7 +374,7 @@
         }
     },
     "peter_paul_rubens": {
-        "label": 37,
+        "label": 38,
         "metadata": {
             "name": "Peter Paul Rubens",
             "genre": "Baroque",
@@ -380,7 +384,7 @@
         }
     },
     "pierre_auguste_renoir": {
-        "label": 38,
+        "label": 39,
         "metadata": {
             "name": "Pierre-Auguste Renoir",
             "genre": "Impressionism",
@@ -390,7 +394,7 @@
         }
     },
     "piet_mondrian": {
-        "label": 39,
+        "label": 40,
         "metadata": {
             "name": "Piet Mondrian",
             "genre": "Neoplasticism",
@@ -400,7 +404,7 @@
         }
     },
     "pieter_bruegel": {
-        "label": 40,
+        "label": 41,
         "metadata": {
             "name": "Pieter Bruegel",
             "genre": "Northern Renaissance",
@@ -410,7 +414,7 @@
         }
     },
     "raphael": {
-        "label": 41,
+        "label": 42,
         "metadata": {
             "name": "Raphael",
             "genre": "High Renaissance",
@@ -420,7 +424,7 @@
         }
     },
     "rembrandt": {
-        "label": 42,
+        "label": 43,
         "metadata": {
             "name": "Rembrandt",
             "genre": "Baroque",
@@ -430,7 +434,7 @@
         }
     },
     "rene_magritte": {
-        "label": 43,
+        "label": 44,
         "metadata": {
             "name": "Rene Magritte",
             "genre": "Surrealism,Impressionism",
@@ -440,7 +444,7 @@
         }
     },
     "salvador_dali": {
-        "label": 44,
+        "label": 45,
         "metadata": {
             "name": "Salvador Dali",
             "genre": "Surrealism",
@@ -450,7 +454,7 @@
         }
     },
     "sandro_botticelli": {
-        "label": 45,
+        "label": 46,
         "metadata": {
             "name": "Sandro Botticelli",
             "genre": "Early Renaissance",
@@ -460,7 +464,7 @@
         }
     },
     "titian": {
-        "label": 46,
+        "label": 47,
         "metadata": {
             "name": "Titian",
             "genre": "High Renaissance,Mannerism",
@@ -470,7 +474,7 @@
         }
     },
     "vasiliy_kandinskiy": {
-        "label": 47,
+        "label": 48,
         "metadata": {
             "name": "Vasiliy Kandinskiy",
             "genre": "Expressionism,Abstractionism",
@@ -480,7 +484,7 @@
         }
     },
     "vincent_van_gogh": {
-        "label": 48,
+        "label": 49,
         "metadata": {
             "name": "Vincent van Gogh",
             "genre": "Post-Impressionism",
@@ -490,7 +494,7 @@
         }
     },
     "william_turner": {
-        "label": 49,
+        "label": 50,
         "metadata": {
             "name": "William Turner",
             "genre": "Romanticism",
