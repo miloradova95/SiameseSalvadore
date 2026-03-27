@@ -45,6 +45,7 @@ for i in range(len(results["ids"][0])):
     print(f"  Rank {i+1}: {patch_id} | distance: {distance:.4f} | source: {meta['source_image']}")
 
 
+
 # Distance here is (1 - cosine_similarity).
 # Lower distance = more similar. 0.0 = identical vectors.
 
