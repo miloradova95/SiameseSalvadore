@@ -1,0 +1,502 @@
+{
+    "albrecht_duerer": {
+        "label": 0,
+        "metadata": {
+            "name": "Albrecht Dürer",
+            "genre": "Northern Renaissance",
+            "nationality": "German",
+            "years": "1471 - 1528",
+            "paintings": 328
+        }
+    },
+    "alfred_sisley": {
+        "label": 1,
+        "metadata": {
+            "name": "Alfred Sisley",
+            "genre": "Impressionism",
+            "nationality": "French,British",
+            "years": "1839 - 1899",
+            "paintings": 259
+        }
+    },
+    "amedeo_modigliani": {
+        "label": 2,
+        "metadata": {
+            "name": "Amedeo Modigliani",
+            "genre": "Expressionism",
+            "nationality": "Italian",
+            "years": "1884 - 1920",
+            "paintings": 193
+        }
+    },
+    "andrei_rublev": {
+        "label": 3,
+        "metadata": {
+            "name": "Andrei Rublev",
+            "genre": "Byzantine Art",
+            "nationality": "Russian",
+            "years": "1360 - 1430",
+            "paintings": 99
+        }
+    },
+    "andy_warhol": {
+        "label": 4,
+        "metadata": {
+            "name": "Andy Warhol",
+            "genre": "Pop Art",
+            "nationality": "American",
+            "years": "1928 – 1987",
+            "paintings": 181
+        }
+    },
+    "camille_pissarro": {
+        "label": 5,
+        "metadata": {
+            "name": "Camille Pissarro",
+            "genre": "Impressionism,Post-Impressionism",
+            "nationality": "French",
+            "years": "1830 - 1903",
+            "paintings": 91
+        }
+    },
+    "caravaggio": {
+        "label": 6,
+        "metadata": {
+            "name": "Caravaggio",
+            "genre": "Baroque",
+            "nationality": "Italian",
+            "years": "1571 - 1610",
+            "paintings": 55
+        }
+    },
+    "claude_monet": {
+        "label": 7,
+        "metadata": {
+            "name": "Claude Monet",
+            "genre": "Impressionism",
+            "nationality": "French",
+            "years": "1840 - 1926",
+            "paintings": 73
+        }
+    },
+    "diego_rivera": {
+        "label": 8,
+        "metadata": {
+            "name": "Diego Rivera",
+            "genre": "Social Realism,Muralism",
+            "nationality": "Mexican",
+            "years": "1886 - 1957",
+            "paintings": 70
+        }
+    },
+    "diego_velazquez": {
+        "label": 9,
+        "metadata": {
+            "name": "Diego Velazquez",
+            "genre": "Baroque",
+            "nationality": "Spanish",
+            "years": "1599 - 1660",
+            "paintings": 128
+        }
+    },
+    "edgar_degas": {
+        "label": 10,
+        "metadata": {
+            "name": "Edgar Degas",
+            "genre": "Impressionism",
+            "nationality": "French",
+            "years": "1834 - 1917",
+            "paintings": 702
+        }
+    },
+    "edouard_manet": {
+        "label": 11,
+        "metadata": {
+            "name": "Edouard Manet",
+            "genre": "Realism,Impressionism",
+            "nationality": "French",
+            "years": "1832 - 1883",
+            "paintings": 90
+        }
+    },
+    "edvard_munch": {
+        "label": 12,
+        "metadata": {
+            "name": "Edvard Munch",
+            "genre": "Symbolism,Expressionism",
+            "nationality": "Norwegian",
+            "years": "1863 - 1944",
+            "paintings": 67
+        }
+    },
+    "el_greco": {
+        "label": 13,
+        "metadata": {
+            "name": "El Greco",
+            "genre": "Mannerism",
+            "nationality": "Spanish,Greek",
+            "years": "1541 - 1614",
+            "paintings": 87
+        }
+    },
+    "eugene_delacroix": {
+        "label": 14,
+        "metadata": {
+            "name": "Eugene Delacroix",
+            "genre": "Romanticism",
+            "nationality": "French",
+            "years": "1798 – 1863",
+            "paintings": 31
+        }
+    },
+    "francisco_goya": {
+        "label": 15,
+        "metadata": {
+            "name": "Francisco Goya",
+            "genre": "Romanticism",
+            "nationality": "Spanish",
+            "years": "1746 - 1828",
+            "paintings": 291
+        }
+    },
+    "frida_kahlo": {
+        "label": 16,
+        "metadata": {
+            "name": "Frida Kahlo",
+            "genre": "Primitivism,Surrealism",
+            "nationality": "Mexican",
+            "years": "1907 - 1954",
+            "paintings": 120
+        }
+    },
+    "georges_seurat": {
+        "label": 17,
+        "metadata": {
+            "name": "Georges Seurat",
+            "genre": "Post-Impressionism",
+            "nationality": "French",
+            "years": "1859 – 1891",
+            "paintings": 43
+        }
+    },
+    "giotto_di_bondone": {
+        "label": 18,
+        "metadata": {
+            "name": "Giotto di Bondone",
+            "genre": "Proto Renaissance",
+            "nationality": "Italian",
+            "years": "1266 - 1337",
+            "paintings": 119
+        }
+    },
+    "gustav_klimt": {
+        "label": 19,
+        "metadata": {
+            "name": "Gustav Klimt",
+            "genre": "Symbolism,Art Nouveau",
+            "nationality": "Austrian",
+            "years": "1862 - 1918",
+            "paintings": 117
+        }
+    },
+    "gustave_courbet": {
+        "label": 20,
+        "metadata": {
+            "name": "Gustave Courbet",
+            "genre": "Realism",
+            "nationality": "French",
+            "years": "1819 - 1877",
+            "paintings": 59
+        }
+    },
+    "henri_de_toulouse_lautrec": {
+        "label": 21,
+        "metadata": {
+            "name": "Henri de Toulouse-Lautrec",
+            "genre": "Post-Impressionism",
+            "nationality": "French",
+            "years": "1864 – 1901",
+            "paintings": 81
+        }
+    },
+    "henri_matisse": {
+        "label": 22,
+        "metadata": {
+            "name": "Henri Matisse",
+            "genre": "Impressionism,Post-Impressionism",
+            "nationality": "French",
+            "years": "1869 - 1954",
+            "paintings": 186
+        }
+    },
+    "henri_rousseau": {
+        "label": 23,
+        "metadata": {
+            "name": "Henri Rousseau",
+            "genre": "Primitivism",
+            "nationality": "French",
+            "years": "1844 – 1910",
+            "paintings": 70
+        }
+    },
+    "hieronymus_bosch": {
+        "label": 24,
+        "metadata": {
+            "name": "Hieronymus Bosch",
+            "genre": "Northern Renaissance",
+            "nationality": "Dutch",
+            "years": "1450 - 1516",
+            "paintings": 137
+        }
+    },
+    "jackson_pollock": {
+        "label": 25,
+        "metadata": {
+            "name": "Jackson Pollock",
+            "genre": "Abstract Expressionism",
+            "nationality": "American",
+            "years": "1912 – 1956",
+            "paintings": 24
+        }
+    },
+    "jan_van_eyck": {
+        "label": 26,
+        "metadata": {
+            "name": "Jan van Eyck",
+            "genre": "Northern Renaissance",
+            "nationality": "Flemish",
+            "years": "1395 - 1441",
+            "paintings": 81
+        }
+    },
+    "joan_miro": {
+        "label": 27,
+        "metadata": {
+            "name": "Joan Miro",
+            "genre": "Surrealism",
+            "nationality": "Spanish",
+            "years": "1893 – 1983",
+            "paintings": 102
+        }
+    },
+    "kazimir_malevich": {
+        "label": 28,
+        "metadata": {
+            "name": "Kazimir Malevich",
+            "genre": "Suprematism",
+            "nationality": "Russian",
+            "years": "1879 - 1935",
+            "paintings": 126
+        }
+    },
+    "leonardo_da_vinci": {
+        "label": 29,
+        "metadata": {
+            "name": "Leonardo da Vinci",
+            "genre": "High Renaissance",
+            "nationality": "Italian",
+            "years": "1452 - 1519",
+            "paintings": 143
+        }
+    },
+    "marc_chagall": {
+        "label": 30,
+        "metadata": {
+            "name": "Marc Chagall",
+            "genre": "Primitivism",
+            "nationality": "French,Jewish,Belarusian",
+            "years": "1887 - 1985",
+            "paintings": 239
+        }
+    },
+    "michelangelo": {
+        "label": 31,
+        "metadata": {
+            "name": "Michelangelo",
+            "genre": "High Renaissance",
+            "nationality": "Italian",
+            "years": "1475 – 1564",
+            "paintings": 49
+        }
+    },
+    "mikhail_vrubel": {
+        "label": 32,
+        "metadata": {
+            "name": "Mikhail Vrubel",
+            "genre": "Symbolism",
+            "nationality": "Russian",
+            "years": "1856 - 1910",
+            "paintings": 171
+        }
+    },
+    "pablo_picasso": {
+        "label": 33,
+        "metadata": {
+            "name": "Pablo Picasso",
+            "genre": "Cubism",
+            "nationality": "Spanish",
+            "years": "1881 - 1973",
+            "paintings": 439
+        }
+    },
+    "paul_cezanne": {
+        "label": 34,
+        "metadata": {
+            "name": "Paul Cezanne",
+            "genre": "Post-Impressionism",
+            "nationality": "French",
+            "years": "1839 – 1906",
+            "paintings": 47
+        }
+    },
+    "paul_gauguin": {
+        "label": 35,
+        "metadata": {
+            "name": "Paul Gauguin",
+            "genre": "Symbolism,Post-Impressionism",
+            "nationality": "French",
+            "years": "1848 – 1903",
+            "paintings": 311
+        }
+    },
+    "paul_klee": {
+        "label": 36,
+        "metadata": {
+            "name": "Paul Klee",
+            "genre": "Expressionism,Abstractionism,Surrealism",
+            "nationality": "German,Swiss",
+            "years": "1879 – 1940",
+            "paintings": 188
+        }
+    },
+    "peter_paul_rubens": {
+        "label": 37,
+        "metadata": {
+            "name": "Peter Paul Rubens",
+            "genre": "Baroque",
+            "nationality": "Flemish",
+            "years": "1577 - 1640",
+            "paintings": 141
+        }
+    },
+    "pierre_auguste_renoir": {
+        "label": 38,
+        "metadata": {
+            "name": "Pierre-Auguste Renoir",
+            "genre": "Impressionism",
+            "nationality": "French",
+            "years": "1841 - 1919",
+            "paintings": 336
+        }
+    },
+    "piet_mondrian": {
+        "label": 39,
+        "metadata": {
+            "name": "Piet Mondrian",
+            "genre": "Neoplasticism",
+            "nationality": "Dutch",
+            "years": "1872 – 1944",
+            "paintings": 84
+        }
+    },
+    "pieter_bruegel": {
+        "label": 40,
+        "metadata": {
+            "name": "Pieter Bruegel",
+            "genre": "Northern Renaissance",
+            "nationality": "Flemish",
+            "years": "1525 - 1569",
+            "paintings": 134
+        }
+    },
+    "raphael": {
+        "label": 41,
+        "metadata": {
+            "name": "Raphael",
+            "genre": "High Renaissance",
+            "nationality": "Italian",
+            "years": "1483 – 1520",
+            "paintings": 109
+        }
+    },
+    "rembrandt": {
+        "label": 42,
+        "metadata": {
+            "name": "Rembrandt",
+            "genre": "Baroque",
+            "nationality": "Dutch",
+            "years": "1606 - 1669",
+            "paintings": 262
+        }
+    },
+    "rene_magritte": {
+        "label": 43,
+        "metadata": {
+            "name": "Rene Magritte",
+            "genre": "Surrealism,Impressionism",
+            "nationality": "Belgian",
+            "years": "1898 - 1967",
+            "paintings": 194
+        }
+    },
+    "salvador_dali": {
+        "label": 44,
+        "metadata": {
+            "name": "Salvador Dali",
+            "genre": "Surrealism",
+            "nationality": "Spanish",
+            "years": "1904 - 1989",
+            "paintings": 139
+        }
+    },
+    "sandro_botticelli": {
+        "label": 45,
+        "metadata": {
+            "name": "Sandro Botticelli",
+            "genre": "Early Renaissance",
+            "nationality": "Italian",
+            "years": "1445 - 1510",
+            "paintings": 164
+        }
+    },
+    "titian": {
+        "label": 46,
+        "metadata": {
+            "name": "Titian",
+            "genre": "High Renaissance,Mannerism",
+            "nationality": "Italian",
+            "years": "1488 - 1576",
+            "paintings": 255
+        }
+    },
+    "vasiliy_kandinskiy": {
+        "label": 47,
+        "metadata": {
+            "name": "Vasiliy Kandinskiy",
+            "genre": "Expressionism,Abstractionism",
+            "nationality": "Russian",
+            "years": "1866 - 1944",
+            "paintings": 88
+        }
+    },
+    "vincent_van_gogh": {
+        "label": 48,
+        "metadata": {
+            "name": "Vincent van Gogh",
+            "genre": "Post-Impressionism",
+            "nationality": "Dutch",
+            "years": "1853 – 1890",
+            "paintings": 877
+        }
+    },
+    "william_turner": {
+        "label": 49,
+        "metadata": {
+            "name": "William Turner",
+            "genre": "Romanticism",
+            "nationality": "British",
+            "years": "1775 - 1851",
+            "paintings": 66
+        }
+    }
+}
