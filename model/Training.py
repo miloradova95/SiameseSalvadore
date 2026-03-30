@@ -41,8 +41,8 @@ def setup():
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-4)
 
     train_loader = get_dataloader(
-        "./dataset/archive/processed/splits/train.csv",
-        "./dataset/archive/processed/images",
+        "./dataset/processed/splits/train.csv",
+        "./dataset/processed/images",
         get_train_transforms()
     )
     
@@ -50,12 +50,17 @@ def setup():
 
     return model, criterion, optimizer, train_loader, device
 
+MODEL_PATH = "./model/trainedModel.pt"
+
 def main():
     model, criterion, optimizer, train_loader, device = setup()
 
-    for epoch in range(2):
+    for epoch in range(5):
         loss = train_one_epoch(model, train_loader, optimizer, criterion, device)
         print(f"Epoch {epoch+1}, Loss: {loss:.4f}")
+        
+    torch.save(model.state_dict(), MODEL_PATH)
+    print(f"Model saved to {MODEL_PATH}")
 
 if __name__ == "__main__":
     main()
