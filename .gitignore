@@ -8,6 +8,7 @@ __pycache__/
 
 # ChromaDB will generate its persistence files here
 backend/db/data/
+dataset/archive/processed
 
 *.jpg
 *.jpeg
