@@ -4,7 +4,7 @@ import unicodedata
 import re
 from collections import defaultdict
 
-ROOT_DIR = "../dataset/archive/resized/resized"
+ROOT_DIR = "../dataset/archive/resized"
 OUTPUT_DIR = "../dataset/archive/processed/images"
 
 
