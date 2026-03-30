@@ -1,10 +1,6 @@
 import torch
-from model.SiameseNetwork import SiameseNetwork
-from model.ContrastiveLoss import ContrastiveLoss
-from preprocessing.transforms import get_train_transforms
-from preprocessing.helpers import get_dataloader
 
-def test_successful():
-    print("Test successful!")
-    
-test_successful()
+print("CUDA available:", torch.cuda.is_available())
+print("CUDA version:", torch.version.cuda)
+print("Current device:", torch.cuda.current_device())
+print("Device name:", torch.cuda.get_device_name(0))

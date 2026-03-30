@@ -12,23 +12,31 @@ class SiameseNetwork(nn.Module):
     def __init__(self, embedding_dim=128):
         super().__init__()
 
-        # Use pretrained backbone
+        # Use pretrained DenseNet121
         backbone = models.densenet121(pretrained=True)
 
-        # Remove final classification layer
-        self.feature_extractor = nn.Sequential(*list(backbone.children())[:-1])
+        # Remove classifier, keep features
+        self.feature_extractor = backbone.features  # This is all conv layers
+
+        # Number of features output by DenseNet before classifier
+        num_features = backbone.classifier.in_features
 
         # Projection head → embedding
         self.fc = nn.Sequential(
-            nn.Linear(backbone.fc.in_features, 256),
+            nn.Linear(num_features, 256),
             nn.ReLU(),
             nn.Linear(256, embedding_dim)
         )
 
     def forward_once(self, x):
+        # DenseNet features output: [B, C, H, W]
         x = self.feature_extractor(x)
-        x = x.view(x.size(0), -1)
+        # Global average pooling (to flatten to [B, num_features])
+        x = F.adaptive_avg_pool2d(x, (1,1)).view(x.size(0), -1)
+        # Projection head
         x = self.fc(x)
+        # Normalize embeddings
+        x = F.normalize(x, p=2, dim=1)
         return x
 
     def forward(self, img1, img2):
