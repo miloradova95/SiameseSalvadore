@@ -9,9 +9,9 @@ import re
 # CONFIG
 
 
-DATASET_DIR = "../dataset/archive/processed/images"
-CSV_PATH = "../dataset/archive/artists.csv"
-OUTPUT_DIR = "../dataset/archive//processed/splits"
+DATASET_DIR = "./dataset/processed/images"
+CSV_PATH = "./dataset/artists.csv"
+OUTPUT_DIR = "./dataset/processed/splits"
 
 SPLIT_RATIOS = (0.7, 0.15, 0.15)
 SEED = 67

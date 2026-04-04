@@ -1,5 +1,5 @@
-from helpers import get_dataloader
-from transforms import get_train_transforms
+from preprocessing.helpers import get_dataloader
+from preprocessing.transforms import get_train_transforms
 import matplotlib.pyplot as plt
 
 
@@ -18,8 +18,8 @@ import matplotlib.pyplot as plt
     
 def main():
     train_loader = get_dataloader(
-        "../dataset/archive/processed/splits/train.csv",
-        "../dataset/archive/processed/images",
+        "./dataset/archive/processed/splits/train.csv",
+        "./dataset/archive/processed/images",
         get_train_transforms()
     )
     shown = False
