@@ -21,19 +21,21 @@ class SiameseDataset(Dataset):
     # - Supports optional class balancing
     
 
-    def __init__(self, csv_file, root_dir, transform=None, balance=True):
+    def __init__(self, csv_file, root_dir, transform=None, balance=True, mode="pair"):
         """
         Args:
             csv_file: path to CSV with columns [image_path, label]
             root_dir: base directory where images are stored
             transform: torchvision transforms (resize, augmentation, normalization)
             balance: if True → sample anchors uniformly across artists
+            mode: "pair" for (anchor, pair, label) or "triplet" for (anchor, positive, negative)
         """
 
         self.df = pd.read_csv(csv_file)
         self.root_dir = root_dir
         self.transform = transform
         self.balance = balance
+        self.mode = mode
 
         # Group images by label (artist)
         self.label_to_images = {}
@@ -54,6 +56,52 @@ class SiameseDataset(Dataset):
         return len(self.df)
 
     def __getitem__(self, idx):
+        if self.mode == "triplet":
+            return self._get_triplet(idx)
+        else:
+            return self._get_pair(idx)
+
+    def _get_triplet(self, idx):
+        """
+        Returns:
+            anchor_img: anchor image
+            positive_img: positive image (same artist as anchor)
+            negative_img: negative image (different artist from anchor)
+        """
+
+        # 1. Select anchor image
+
+        if self.balance:
+            # Sample a random artist first (prevents large classes dominating)
+            anchor_label = random.choice(self.labels)
+            anchor_path = random.choice(self.label_to_images[anchor_label])
+        else:
+            # Standard sampling
+            row = self.df.iloc[idx]
+            anchor_label = row["label"]
+            anchor_path = row["image_path"]
+
+        anchor_img = self.load_image(anchor_path)
+
+        # 2. Select positive image (same artist)
+
+        positive_path = random.choice(self.label_to_images[anchor_label])
+        # Avoid selecting the exact same image
+        while positive_path == anchor_path:
+            positive_path = random.choice(self.label_to_images[anchor_label])
+        positive_img = self.load_image(positive_path)
+
+        # 3. Select negative image (different artist)
+
+        negative_label = random.choice(self.labels)
+        while negative_label == anchor_label:
+            negative_label = random.choice(self.labels)
+        negative_path = random.choice(self.label_to_images[negative_label])
+        negative_img = self.load_image(negative_path)
+
+        return anchor_img, positive_img, negative_img
+
+    def _get_pair(self, idx):
         """
         Returns:
             anchor_img: first image
