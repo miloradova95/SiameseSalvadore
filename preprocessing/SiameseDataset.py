@@ -140,7 +140,7 @@ class SiameseDataset(Dataset):
             pair_label = 0
             
             # sample multiple candidates and pick one randomly
-            negative_labels = random.sample(self.labels, k=10)
+            negative_labels = random.sample(self.labels, k=min(10, len(self.labels)))
             negative_labels = [l for l in negative_labels if l != anchor_label]
 
             negative_label = random.choice(negative_labels)

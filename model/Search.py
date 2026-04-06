@@ -13,7 +13,7 @@ MODEL_PATH = "./model/trainedModel.pth"
 CHROMA_PATH = "./data/chroma_store"
 COLLECTION_NAME = "paintings"
 
-QUERY_IMAGE = "./dataset/processed/images/paul_cezanne/paul_cezanne_0001.jpg"
+QUERY_IMAGE = "./dataset/processed/images/albrecht_duerer/albrecht_duerer_0001.jpg"
 TOP_K = 5
 
 

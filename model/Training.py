@@ -39,7 +39,7 @@ def setup():
     device = get_device()
 
     model = SiameseNetwork().to(device)
-    criterion = TripletLoss(margin=1.0)
+    criterion = TripletLoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-4)
 
     train_loader = get_dataloader(

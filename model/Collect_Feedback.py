@@ -14,7 +14,7 @@ from backend.db.chroma_client import get_chroma_client, get_or_create_collection
 
 # ── Settings ─────────────────────────────────────────────
 MODEL_PATH = "./model/trainedModel.pth"
-CSV_PATH = "./dataset/processed/splits/train.csv"
+CSV_PATH = "./dataset/processed/splits/val.csv"
 IMAGE_ROOT = "./dataset/processed/images"
 
 CHROMA_PATH = "./data/chroma_store"
@@ -22,8 +22,8 @@ COLLECTION_NAME = "paintings"
 
 FEEDBACK_PATH = "./model/feedback.json"
 
-NUM_QUERIES = 10
-TOP_K = 6 
+NUM_QUERIES = 50
+TOP_K = 10 
 
 
 #  Device 

@@ -1,0 +1,5402 @@
+[
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0061.jpg",
+    "label": 0,
+    "similarity": 0.9763432741165161
+  },
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "edouard_manet/edouard_manet_0020.jpg",
+    "label": 0,
+    "similarity": 0.962233304977417
+  },
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "edgar_degas/edgar_degas_0473.jpg",
+    "label": 0,
+    "similarity": 0.9603002071380615
+  },
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0060.jpg",
+    "label": 0,
+    "similarity": 0.9587268829345703
+  },
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0002.jpg",
+    "label": 0,
+    "similarity": 0.9581571817398071
+  },
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "edvard_munch/edvard_munch_0065.jpg",
+    "label": 1,
+    "similarity": 0.9564389586448669
+  },
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0082.jpg",
+    "label": 0,
+    "similarity": 0.9529604315757751
+  },
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "edgar_degas/edgar_degas_0182.jpg",
+    "label": 0,
+    "similarity": 0.9521982669830322
+  },
+  {
+    "query": "edvard_munch/edvard_munch_0052.jpg",
+    "result": "edgar_degas/edgar_degas_0529.jpg",
+    "label": 0,
+    "similarity": 0.951688289642334
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "edgar_degas/edgar_degas_0191.jpg",
+    "label": 0,
+    "similarity": 0.8775416612625122
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "edgar_degas/edgar_degas_0469.jpg",
+    "label": 0,
+    "similarity": 0.8671020269393921
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "edgar_degas/edgar_degas_0187.jpg",
+    "label": 0,
+    "similarity": 0.861045241355896
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "alfred_sisley/alfred_sisley_0174.jpg",
+    "label": 0,
+    "similarity": 0.8592968583106995
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0027.jpg",
+    "label": 1,
+    "similarity": 0.8492832779884338
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "claude_monet/claude_monet_0032.jpg",
+    "label": 0,
+    "similarity": 0.8482874631881714
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0636.jpg",
+    "label": 1,
+    "similarity": 0.8482789993286133
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0739.jpg",
+    "label": 1,
+    "similarity": 0.8451558947563171
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0356.jpg",
+    "result": "edgar_degas/edgar_degas_0302.jpg",
+    "label": 0,
+    "similarity": 0.8432779908180237
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "el_greco/el_greco_0055.jpg",
+    "label": 1,
+    "similarity": 0.9631978869438171
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "el_greco/el_greco_0076.jpg",
+    "label": 1,
+    "similarity": 0.9527666568756104
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "el_greco/el_greco_0041.jpg",
+    "label": 1,
+    "similarity": 0.9440135955810547
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "el_greco/el_greco_0012.jpg",
+    "label": 1,
+    "similarity": 0.9331711530685425
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0375.jpg",
+    "label": 0,
+    "similarity": 0.9209921956062317
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "el_greco/el_greco_0042.jpg",
+    "label": 1,
+    "similarity": 0.9157126545906067
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "gustave_courbet/gustave_courbet_0020.jpg",
+    "label": 0,
+    "similarity": 0.9131742715835571
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "el_greco/el_greco_0047.jpg",
+    "label": 1,
+    "similarity": 0.9084962010383606
+  },
+  {
+    "query": "el_greco/el_greco_0029.jpg",
+    "result": "el_greco/el_greco_0078.jpg",
+    "label": 1,
+    "similarity": 0.9040243029594421
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "raphael/raphael_0045.jpg",
+    "label": 0,
+    "similarity": 0.9835419654846191
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "raphael/raphael_0042.jpg",
+    "label": 0,
+    "similarity": 0.9781432151794434
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "raphael/raphael_0080.jpg",
+    "label": 0,
+    "similarity": 0.9765231609344482
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "raphael/raphael_0097.jpg",
+    "label": 0,
+    "similarity": 0.972713828086853
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0116.jpg",
+    "label": 0,
+    "similarity": 0.9723838567733765
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "titian/titian_0151.jpg",
+    "label": 1,
+    "similarity": 0.9713303446769714
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "raphael/raphael_0052.jpg",
+    "label": 0,
+    "similarity": 0.9710462093353271
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "raphael/raphael_0053.jpg",
+    "label": 0,
+    "similarity": 0.9709663391113281
+  },
+  {
+    "query": "titian/titian_0162.jpg",
+    "result": "titian/titian_0245.jpg",
+    "label": 1,
+    "similarity": 0.9707815647125244
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "diego_velazquez/diego_velazquez_0012.jpg",
+    "label": 0,
+    "similarity": 0.9469985961914062
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "francisco_goya/francisco_goya_0039.jpg",
+    "label": 0,
+    "similarity": 0.9469881653785706
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0598.jpg",
+    "label": 0,
+    "similarity": 0.9423351287841797
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "titian/titian_0053.jpg",
+    "label": 0,
+    "similarity": 0.9406846761703491
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "edouard_manet/edouard_manet_0060.jpg",
+    "label": 0,
+    "similarity": 0.931948721408844
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "edgar_degas/edgar_degas_0657.jpg",
+    "label": 1,
+    "similarity": 0.9301238059997559
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "edgar_degas/edgar_degas_0322.jpg",
+    "label": 1,
+    "similarity": 0.925302267074585
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "edgar_degas/edgar_degas_0674.jpg",
+    "label": 1,
+    "similarity": 0.924619734287262
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0375.jpg",
+    "result": "rembrandt/rembrandt_0039.jpg",
+    "label": 0,
+    "similarity": 0.9240703582763672
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "paul_klee/paul_klee_0013.jpg",
+    "label": 1,
+    "similarity": 0.9885724782943726
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "paul_klee/paul_klee_0139.jpg",
+    "label": 1,
+    "similarity": 0.9711952209472656
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "paul_klee/paul_klee_0124.jpg",
+    "label": 1,
+    "similarity": 0.9689770936965942
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "piet_mondrian/piet_mondrian_0044.jpg",
+    "label": 0,
+    "similarity": 0.9681106805801392
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "paul_klee/paul_klee_0072.jpg",
+    "label": 1,
+    "similarity": 0.9674392938613892
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "piet_mondrian/piet_mondrian_0017.jpg",
+    "label": 0,
+    "similarity": 0.9651689529418945
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "paul_klee/paul_klee_0003.jpg",
+    "label": 1,
+    "similarity": 0.9606442451477051
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "paul_klee/paul_klee_0096.jpg",
+    "label": 1,
+    "similarity": 0.957532525062561
+  },
+  {
+    "query": "paul_klee/paul_klee_0089.jpg",
+    "result": "paul_klee/paul_klee_0118.jpg",
+    "label": 1,
+    "similarity": 0.9563395977020264
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "michelangelo/michelangelo_0043.jpg",
+    "label": 1,
+    "similarity": 0.9910792112350464
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "michelangelo/michelangelo_0010.jpg",
+    "label": 1,
+    "similarity": 0.9905111789703369
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "michelangelo/michelangelo_0006.jpg",
+    "label": 1,
+    "similarity": 0.9875345230102539
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "michelangelo/michelangelo_0008.jpg",
+    "label": 1,
+    "similarity": 0.9849720597267151
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "michelangelo/michelangelo_0014.jpg",
+    "label": 1,
+    "similarity": 0.983553946018219
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "raphael/raphael_0093.jpg",
+    "label": 0,
+    "similarity": 0.9826958179473877
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "label": 0,
+    "similarity": 0.982543408870697
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "michelangelo/michelangelo_0023.jpg",
+    "label": 1,
+    "similarity": 0.9807179570198059
+  },
+  {
+    "query": "michelangelo/michelangelo_0041.jpg",
+    "result": "michelangelo/michelangelo_0045.jpg",
+    "label": 1,
+    "similarity": 0.9804128408432007
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0026.jpg",
+    "label": 1,
+    "similarity": 0.9759258031845093
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0125.jpg",
+    "label": 1,
+    "similarity": 0.9752557873725891
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "rembrandt/rembrandt_0094.jpg",
+    "label": 0,
+    "similarity": 0.9733825922012329
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0081.jpg",
+    "label": 1,
+    "similarity": 0.9713317155838013
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "titian/titian_0081.jpg",
+    "label": 0,
+    "similarity": 0.9685707688331604
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0016.jpg",
+    "label": 1,
+    "similarity": 0.9663733839988708
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0044.jpg",
+    "label": 1,
+    "similarity": 0.9649333953857422
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0006.jpg",
+    "label": 1,
+    "similarity": 0.9649288654327393
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0005.jpg",
+    "result": "raphael/raphael_0013.jpg",
+    "label": 0,
+    "similarity": 0.9635506868362427
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0013.jpg",
+    "label": 0,
+    "similarity": 0.9339981079101562
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "piet_mondrian/piet_mondrian_0077.jpg",
+    "label": 0,
+    "similarity": 0.9273500442504883
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "paul_klee/paul_klee_0056.jpg",
+    "label": 1,
+    "similarity": 0.9243682622909546
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "paul_klee/paul_klee_0180.jpg",
+    "label": 1,
+    "similarity": 0.9206318855285645
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "paul_klee/paul_klee_0112.jpg",
+    "label": 1,
+    "similarity": 0.914718508720398
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "paul_klee/paul_klee_0129.jpg",
+    "label": 1,
+    "similarity": 0.9115667343139648
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "piet_mondrian/piet_mondrian_0018.jpg",
+    "label": 0,
+    "similarity": 0.9088287353515625
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0650.jpg",
+    "label": 0,
+    "similarity": 0.9034029245376587
+  },
+  {
+    "query": "paul_klee/paul_klee_0152.jpg",
+    "result": "paul_klee/paul_klee_0157.jpg",
+    "label": 1,
+    "similarity": 0.9016057252883911
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "el_greco/el_greco_0032.jpg",
+    "label": 1,
+    "similarity": 0.9755572080612183
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "titian/titian_0244.jpg",
+    "label": 0,
+    "similarity": 0.9643330574035645
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "titian/titian_0233.jpg",
+    "label": 0,
+    "similarity": 0.9642812013626099
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "titian/titian_0067.jpg",
+    "label": 0,
+    "similarity": 0.9640951156616211
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "el_greco/el_greco_0019.jpg",
+    "label": 1,
+    "similarity": 0.9636170864105225
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "titian/titian_0037.jpg",
+    "label": 0,
+    "similarity": 0.9631690979003906
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "el_greco/el_greco_0009.jpg",
+    "label": 1,
+    "similarity": 0.9630661010742188
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "titian/titian_0226.jpg",
+    "label": 0,
+    "similarity": 0.9616999626159668
+  },
+  {
+    "query": "el_greco/el_greco_0038.jpg",
+    "result": "el_greco/el_greco_0053.jpg",
+    "label": 1,
+    "similarity": 0.9599231481552124
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "titian/titian_0064.jpg",
+    "label": 0,
+    "similarity": 0.9853413105010986
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "titian/titian_0067.jpg",
+    "label": 0,
+    "similarity": 0.9850504398345947
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "titian/titian_0221.jpg",
+    "label": 0,
+    "similarity": 0.9830324053764343
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "eugene_delacroix/eugene_delacroix_0029.jpg",
+    "label": 0,
+    "similarity": 0.9782301783561707
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "titian/titian_0124.jpg",
+    "label": 0,
+    "similarity": 0.9766780138015747
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0031.jpg",
+    "label": 0,
+    "similarity": 0.9757510423660278
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "el_greco/el_greco_0019.jpg",
+    "label": 0,
+    "similarity": 0.9755467176437378
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0131.jpg",
+    "label": 0,
+    "similarity": 0.9729808568954468
+  },
+  {
+    "query": "pierre_auguste_renoir/pierre_auguste_renoir_0182.jpg",
+    "result": "rembrandt/rembrandt_0063.jpg",
+    "label": 0,
+    "similarity": 0.9728459119796753
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "edgar_degas/edgar_degas_0038.jpg",
+    "label": 1,
+    "similarity": 0.928674578666687
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "paul_gauguin/paul_gauguin_0166.jpg",
+    "label": 0,
+    "similarity": 0.9273205995559692
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "pablo_picasso/pablo_picasso_0365.jpg",
+    "label": 0,
+    "similarity": 0.9189842343330383
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "edgar_degas/edgar_degas_0606.jpg",
+    "label": 1,
+    "similarity": 0.9031769037246704
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "piet_mondrian/piet_mondrian_0065.jpg",
+    "label": 0,
+    "similarity": 0.9030381441116333
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "paul_gauguin/paul_gauguin_0301.jpg",
+    "label": 0,
+    "similarity": 0.8987725973129272
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "edgar_degas/edgar_degas_0131.jpg",
+    "label": 1,
+    "similarity": 0.897375226020813
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0782.jpg",
+    "label": 0,
+    "similarity": 0.8936352729797363
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0627.jpg",
+    "result": "paul_gauguin/paul_gauguin_0147.jpg",
+    "label": 0,
+    "similarity": 0.888045072555542
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "edgar_degas/edgar_degas_0665.jpg",
+    "label": 1,
+    "similarity": 0.971764326095581
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "edgar_degas/edgar_degas_0616.jpg",
+    "label": 1,
+    "similarity": 0.9684053659439087
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "edgar_degas/edgar_degas_0089.jpg",
+    "label": 1,
+    "similarity": 0.9657658338546753
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "edgar_degas/edgar_degas_0234.jpg",
+    "label": 1,
+    "similarity": 0.9630712866783142
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "pablo_picasso/pablo_picasso_0313.jpg",
+    "label": 0,
+    "similarity": 0.9621273875236511
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0184.jpg",
+    "label": 0,
+    "similarity": 0.9586518406867981
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "edgar_degas/edgar_degas_0553.jpg",
+    "label": 1,
+    "similarity": 0.958570122718811
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0444.jpg",
+    "label": 0,
+    "similarity": 0.9578742980957031
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0397.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0077.jpg",
+    "label": 0,
+    "similarity": 0.9576767683029175
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "gustav_klimt/gustav_klimt_0020.jpg",
+    "label": 0,
+    "similarity": 0.9566597938537598
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "gustav_klimt/gustav_klimt_0098.jpg",
+    "label": 0,
+    "similarity": 0.9514099955558777
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "gustav_klimt/gustav_klimt_0116.jpg",
+    "label": 0,
+    "similarity": 0.9508020877838135
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "gustav_klimt/gustav_klimt_0070.jpg",
+    "label": 0,
+    "similarity": 0.9473300576210022
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "pablo_picasso/pablo_picasso_0050.jpg",
+    "label": 1,
+    "similarity": 0.9424732327461243
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0114.jpg",
+    "label": 0,
+    "similarity": 0.9399057030677795
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "gustav_klimt/gustav_klimt_0061.jpg",
+    "label": 0,
+    "similarity": 0.9382436275482178
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "pablo_picasso/pablo_picasso_0423.jpg",
+    "label": 1,
+    "similarity": 0.9283554553985596
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0089.jpg",
+    "result": "paul_gauguin/paul_gauguin_0055.jpg",
+    "label": 0,
+    "similarity": 0.9269601106643677
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "diego_velazquez/diego_velazquez_0020.jpg",
+    "label": 0,
+    "similarity": 0.9676605463027954
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "raphael/raphael_0058.jpg",
+    "label": 0,
+    "similarity": 0.962665319442749
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "titian/titian_0007.jpg",
+    "label": 1,
+    "similarity": 0.9606987833976746
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "raphael/raphael_0061.jpg",
+    "label": 0,
+    "similarity": 0.9574556350708008
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "titian/titian_0138.jpg",
+    "label": 1,
+    "similarity": 0.956283450126648
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "titian/titian_0103.jpg",
+    "label": 1,
+    "similarity": 0.9550819396972656
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "titian/titian_0192.jpg",
+    "label": 1,
+    "similarity": 0.9546493291854858
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0034.jpg",
+    "label": 0,
+    "similarity": 0.9546414613723755
+  },
+  {
+    "query": "titian/titian_0171.jpg",
+    "result": "titian/titian_0087.jpg",
+    "label": 1,
+    "similarity": 0.9545894861221313
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "camille_pissarro/camille_pissarro_0016.jpg",
+    "label": 0,
+    "similarity": 0.979446530342102
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "paul_gauguin/paul_gauguin_0122.jpg",
+    "label": 0,
+    "similarity": 0.975132942199707
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "paul_gauguin/paul_gauguin_0115.jpg",
+    "label": 0,
+    "similarity": 0.9728953242301941
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "paul_gauguin/paul_gauguin_0188.jpg",
+    "label": 0,
+    "similarity": 0.9702346324920654
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "pierre_auguste_renoir/pierre_auguste_renoir_0090.jpg",
+    "label": 0,
+    "similarity": 0.9685368537902832
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "camille_pissarro/camille_pissarro_0069.jpg",
+    "label": 0,
+    "similarity": 0.9669848084449768
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "alfred_sisley/alfred_sisley_0020.jpg",
+    "label": 0,
+    "similarity": 0.9667608737945557
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "alfred_sisley/alfred_sisley_0223.jpg",
+    "label": 0,
+    "similarity": 0.9622272253036499
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0517.jpg",
+    "result": "alfred_sisley/alfred_sisley_0018.jpg",
+    "label": 0,
+    "similarity": 0.961743950843811
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "edgar_degas/edgar_degas_0227.jpg",
+    "label": 1,
+    "similarity": 0.8471643328666687
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0103.jpg",
+    "label": 0,
+    "similarity": 0.837645947933197
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0018.jpg",
+    "label": 0,
+    "similarity": 0.8343405723571777
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "rembrandt/rembrandt_0120.jpg",
+    "label": 0,
+    "similarity": 0.8271320462226868
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0270.jpg",
+    "label": 0,
+    "similarity": 0.814436674118042
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0768.jpg",
+    "label": 0,
+    "similarity": 0.7952698469161987
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "edgar_degas/edgar_degas_0474.jpg",
+    "label": 1,
+    "similarity": 0.7929410934448242
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0005.jpg",
+    "label": 0,
+    "similarity": 0.7920541763305664
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0156.jpg",
+    "result": "edgar_degas/edgar_degas_0644.jpg",
+    "label": 1,
+    "similarity": 0.7859871983528137
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0086.jpg",
+    "label": 0,
+    "similarity": 0.9785484075546265
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "titian/titian_0208.jpg",
+    "label": 1,
+    "similarity": 0.9734395742416382
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "raphael/raphael_0102.jpg",
+    "label": 0,
+    "similarity": 0.9723507165908813
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "diego_velazquez/diego_velazquez_0021.jpg",
+    "label": 0,
+    "similarity": 0.9723067283630371
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "edgar_degas/edgar_degas_0048.jpg",
+    "label": 0,
+    "similarity": 0.9707843661308289
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "titian/titian_0252.jpg",
+    "label": 1,
+    "similarity": 0.9696440696716309
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "titian/titian_0190.jpg",
+    "label": 1,
+    "similarity": 0.9684991836547852
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "edgar_degas/edgar_degas_0118.jpg",
+    "label": 0,
+    "similarity": 0.967269241809845
+  },
+  {
+    "query": "titian/titian_0202.jpg",
+    "result": "edgar_degas/edgar_degas_0321.jpg",
+    "label": 0,
+    "similarity": 0.966606855392456
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0029.jpg",
+    "label": 1,
+    "similarity": 0.9834452271461487
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0002.jpg",
+    "label": 1,
+    "similarity": 0.9681104421615601
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0084.jpg",
+    "label": 0,
+    "similarity": 0.9617691040039062
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "jan_van_eyck/jan_van_eyck_0076.jpg",
+    "label": 0,
+    "similarity": 0.9597532749176025
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0020.jpg",
+    "label": 0,
+    "similarity": 0.9588873982429504
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0115.jpg",
+    "label": 0,
+    "similarity": 0.9588192105293274
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "el_greco/el_greco_0034.jpg",
+    "label": 0,
+    "similarity": 0.9587259292602539
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0053.jpg",
+    "label": 0,
+    "similarity": 0.9586426615715027
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0051.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0038.jpg",
+    "label": 1,
+    "similarity": 0.9576876759529114
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "alfred_sisley/alfred_sisley_0122.jpg",
+    "label": 1,
+    "similarity": 0.9572393298149109
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "claude_monet/claude_monet_0008.jpg",
+    "label": 0,
+    "similarity": 0.92375248670578
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "camille_pissarro/camille_pissarro_0026.jpg",
+    "label": 0,
+    "similarity": 0.9178340435028076
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0091.jpg",
+    "label": 0,
+    "similarity": 0.907004177570343
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0035.jpg",
+    "label": 0,
+    "similarity": 0.8983778953552246
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0750.jpg",
+    "label": 0,
+    "similarity": 0.8940545916557312
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "alfred_sisley/alfred_sisley_0099.jpg",
+    "label": 1,
+    "similarity": 0.8901538848876953
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "alfred_sisley/alfred_sisley_0134.jpg",
+    "label": 1,
+    "similarity": 0.8769416213035583
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0022.jpg",
+    "result": "alfred_sisley/alfred_sisley_0130.jpg",
+    "label": 1,
+    "similarity": 0.8739088177680969
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "paul_gauguin/paul_gauguin_0278.jpg",
+    "label": 1,
+    "similarity": 0.9593616127967834
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "henri_matisse/henri_matisse_0065.jpg",
+    "label": 0,
+    "similarity": 0.9366572499275208
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0716.jpg",
+    "label": 0,
+    "similarity": 0.9328801035881042
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0004.jpg",
+    "label": 0,
+    "similarity": 0.9311382174491882
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "pablo_picasso/pablo_picasso_0147.jpg",
+    "label": 0,
+    "similarity": 0.930256724357605
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "paul_gauguin/paul_gauguin_0052.jpg",
+    "label": 1,
+    "similarity": 0.9293105602264404
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "paul_gauguin/paul_gauguin_0139.jpg",
+    "label": 1,
+    "similarity": 0.9290310144424438
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "paul_gauguin/paul_gauguin_0111.jpg",
+    "label": 1,
+    "similarity": 0.9289921522140503
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0144.jpg",
+    "result": "paul_gauguin/paul_gauguin_0039.jpg",
+    "label": 1,
+    "similarity": 0.9252966642379761
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "paul_cezanne/paul_cezanne_0013.jpg",
+    "label": 1,
+    "similarity": 0.9469423294067383
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0152.jpg",
+    "label": 0,
+    "similarity": 0.9122834801673889
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "henri_matisse/henri_matisse_0059.jpg",
+    "label": 0,
+    "similarity": 0.9075544476509094
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "frida_kahlo/frida_kahlo_0018.jpg",
+    "label": 0,
+    "similarity": 0.9066359996795654
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "label": 0,
+    "similarity": 0.9041691422462463
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "paul_cezanne/paul_cezanne_0002.jpg",
+    "label": 1,
+    "similarity": 0.901645302772522
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "pablo_picasso/pablo_picasso_0304.jpg",
+    "label": 0,
+    "similarity": 0.8994061946868896
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "paul_cezanne/paul_cezanne_0043.jpg",
+    "label": 1,
+    "similarity": 0.8949819207191467
+  },
+  {
+    "query": "paul_cezanne/paul_cezanne_0008.jpg",
+    "result": "henri_matisse/henri_matisse_0158.jpg",
+    "label": 0,
+    "similarity": 0.8935044407844543
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "paul_gauguin/paul_gauguin_0210.jpg",
+    "label": 1,
+    "similarity": 0.9445594549179077
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "paul_gauguin/paul_gauguin_0101.jpg",
+    "label": 1,
+    "similarity": 0.9390889406204224
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "paul_gauguin/paul_gauguin_0108.jpg",
+    "label": 1,
+    "similarity": 0.9364168643951416
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "gustav_klimt/gustav_klimt_0087.jpg",
+    "label": 0,
+    "similarity": 0.9352095723152161
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "gustav_klimt/gustav_klimt_0083.jpg",
+    "label": 0,
+    "similarity": 0.9345165491104126
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0845.jpg",
+    "label": 0,
+    "similarity": 0.9337993860244751
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "paul_gauguin/paul_gauguin_0136.jpg",
+    "label": 1,
+    "similarity": 0.9321803450584412
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "pablo_picasso/pablo_picasso_0154.jpg",
+    "label": 0,
+    "similarity": 0.9292551875114441
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0005.jpg",
+    "result": "paul_gauguin/paul_gauguin_0066.jpg",
+    "label": 1,
+    "similarity": 0.9277481436729431
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "joan_miro/joan_miro_0027.jpg",
+    "label": 0,
+    "similarity": 0.9855741858482361
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "joan_miro/joan_miro_0082.jpg",
+    "label": 0,
+    "similarity": 0.9802336096763611
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "andy_warhol/andy_warhol_0161.jpg",
+    "label": 1,
+    "similarity": 0.9791329503059387
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "andy_warhol/andy_warhol_0148.jpg",
+    "label": 1,
+    "similarity": 0.9769695997238159
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "andy_warhol/andy_warhol_0010.jpg",
+    "label": 1,
+    "similarity": 0.9735772609710693
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "joan_miro/joan_miro_0080.jpg",
+    "label": 0,
+    "similarity": 0.9731875061988831
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "andy_warhol/andy_warhol_0132.jpg",
+    "label": 1,
+    "similarity": 0.9719248414039612
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "andy_warhol/andy_warhol_0143.jpg",
+    "label": 1,
+    "similarity": 0.9697134494781494
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0101.jpg",
+    "result": "andy_warhol/andy_warhol_0142.jpg",
+    "label": 1,
+    "similarity": 0.9665980339050293
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0007.jpg",
+    "label": 1,
+    "similarity": 0.9943336248397827
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0028.jpg",
+    "label": 1,
+    "similarity": 0.9931748509407043
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0042.jpg",
+    "label": 1,
+    "similarity": 0.9886044263839722
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0083.jpg",
+    "label": 1,
+    "similarity": 0.9806342720985413
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0039.jpg",
+    "label": 1,
+    "similarity": 0.9786145091056824
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0010.jpg",
+    "label": 1,
+    "similarity": 0.976287841796875
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0013.jpg",
+    "label": 1,
+    "similarity": 0.9758362770080566
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0001.jpg",
+    "label": 1,
+    "similarity": 0.9709881544113159
+  },
+  {
+    "query": "piet_mondrian/piet_mondrian_0067.jpg",
+    "result": "piet_mondrian/piet_mondrian_0063.jpg",
+    "label": 1,
+    "similarity": 0.9694547057151794
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "alfred_sisley/alfred_sisley_0156.jpg",
+    "label": 1,
+    "similarity": 0.986348032951355
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "alfred_sisley/alfred_sisley_0165.jpg",
+    "label": 1,
+    "similarity": 0.984343945980072
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0090.jpg",
+    "label": 0,
+    "similarity": 0.9840224981307983
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "camille_pissarro/camille_pissarro_0061.jpg",
+    "label": 0,
+    "similarity": 0.9826769232749939
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "alfred_sisley/alfred_sisley_0003.jpg",
+    "label": 1,
+    "similarity": 0.9819669723510742
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "alfred_sisley/alfred_sisley_0135.jpg",
+    "label": 1,
+    "similarity": 0.9816990494728088
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "alfred_sisley/alfred_sisley_0084.jpg",
+    "label": 1,
+    "similarity": 0.9801732897758484
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "camille_pissarro/camille_pissarro_0074.jpg",
+    "label": 0,
+    "similarity": 0.9795164465904236
+  },
+  {
+    "query": "alfred_sisley/alfred_sisley_0234.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0786.jpg",
+    "label": 0,
+    "similarity": 0.9789853692054749
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0166.jpg",
+    "label": 1,
+    "similarity": 0.9285542964935303
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0012.jpg",
+    "label": 0,
+    "similarity": 0.9118384122848511
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0643.jpg",
+    "label": 1,
+    "similarity": 0.8982157707214355
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0860.jpg",
+    "label": 1,
+    "similarity": 0.8885874152183533
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0259.jpg",
+    "label": 1,
+    "similarity": 0.8753431439399719
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "gustav_klimt/gustav_klimt_0021.jpg",
+    "label": 0,
+    "similarity": 0.8749905824661255
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0123.jpg",
+    "label": 0,
+    "similarity": 0.8714830279350281
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0035.jpg",
+    "label": 0,
+    "similarity": 0.8677055239677429
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0042.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0796.jpg",
+    "label": 1,
+    "similarity": 0.8514500260353088
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0121.jpg",
+    "label": 1,
+    "similarity": 0.97776198387146
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0185.jpg",
+    "label": 1,
+    "similarity": 0.9716987013816833
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0112.jpg",
+    "label": 1,
+    "similarity": 0.9698842763900757
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0271.jpg",
+    "label": 1,
+    "similarity": 0.9648728966712952
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0052.jpg",
+    "label": 0,
+    "similarity": 0.9627224206924438
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0123.jpg",
+    "label": 1,
+    "similarity": 0.9607381820678711
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0198.jpg",
+    "label": 1,
+    "similarity": 0.9607031941413879
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0266.jpg",
+    "label": 1,
+    "similarity": 0.9593433737754822
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0225.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0096.jpg",
+    "label": 1,
+    "similarity": 0.958997905254364
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "andy_warhol/andy_warhol_0149.jpg",
+    "label": 1,
+    "similarity": 0.9753880500793457
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "pablo_picasso/pablo_picasso_0218.jpg",
+    "label": 0,
+    "similarity": 0.9688302278518677
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "andy_warhol/andy_warhol_0020.jpg",
+    "label": 1,
+    "similarity": 0.9620069265365601
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "henri_matisse/henri_matisse_0180.jpg",
+    "label": 0,
+    "similarity": 0.9587805271148682
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "andy_warhol/andy_warhol_0031.jpg",
+    "label": 1,
+    "similarity": 0.9569231271743774
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "vasiliy_kandinskiy/vasiliy_kandinskiy_0021.jpg",
+    "label": 0,
+    "similarity": 0.9547914266586304
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "andy_warhol/andy_warhol_0171.jpg",
+    "label": 1,
+    "similarity": 0.9542279839515686
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "andy_warhol/andy_warhol_0144.jpg",
+    "label": 1,
+    "similarity": 0.9528873562812805
+  },
+  {
+    "query": "andy_warhol/andy_warhol_0092.jpg",
+    "result": "marc_chagall/marc_chagall_0009.jpg",
+    "label": 0,
+    "similarity": 0.9509608745574951
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0286.jpg",
+    "label": 1,
+    "similarity": 0.9782530069351196
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0221.jpg",
+    "label": 1,
+    "similarity": 0.9781671166419983
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0197.jpg",
+    "label": 1,
+    "similarity": 0.9778153896331787
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0017.jpg",
+    "label": 1,
+    "similarity": 0.9730988144874573
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0185.jpg",
+    "label": 1,
+    "similarity": 0.9726104736328125
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0119.jpg",
+    "label": 1,
+    "similarity": 0.9659899473190308
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0157.jpg",
+    "label": 1,
+    "similarity": 0.9654390811920166
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0118.jpg",
+    "label": 1,
+    "similarity": 0.9637655019760132
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0168.jpg",
+    "result": "paul_gauguin/paul_gauguin_0114.jpg",
+    "label": 1,
+    "similarity": 0.9633547067642212
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0239.jpg",
+    "label": 1,
+    "similarity": 0.9764470458030701
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0110.jpg",
+    "label": 1,
+    "similarity": 0.9764226675033569
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0316.jpg",
+    "label": 1,
+    "similarity": 0.9744932651519775
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0187.jpg",
+    "label": 1,
+    "similarity": 0.971137523651123
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0029.jpg",
+    "label": 1,
+    "similarity": 0.9698883295059204
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0142.jpg",
+    "label": 1,
+    "similarity": 0.9697344303131104
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0320.jpg",
+    "label": 1,
+    "similarity": 0.9693222045898438
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0067.jpg",
+    "label": 1,
+    "similarity": 0.9685702323913574
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0154.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0009.jpg",
+    "label": 1,
+    "similarity": 0.9660136699676514
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0141.jpg",
+    "label": 1,
+    "similarity": 0.9255777597427368
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "paul_gauguin/paul_gauguin_0209.jpg",
+    "label": 0,
+    "similarity": 0.9163817167282104
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "salvador_dali/salvador_dali_0087.jpg",
+    "label": 0,
+    "similarity": 0.9106638431549072
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0054.jpg",
+    "label": 1,
+    "similarity": 0.9103108644485474
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0116.jpg",
+    "label": 1,
+    "similarity": 0.9080396294593811
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0045.jpg",
+    "label": 1,
+    "similarity": 0.903118371963501
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0005.jpg",
+    "label": 1,
+    "similarity": 0.9025166630744934
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0007.jpg",
+    "label": 1,
+    "similarity": 0.9022412300109863
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0101.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0058.jpg",
+    "label": 1,
+    "similarity": 0.9004160761833191
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "pablo_picasso/pablo_picasso_0087.jpg",
+    "label": 0,
+    "similarity": 0.9633951187133789
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "pablo_picasso/pablo_picasso_0394.jpg",
+    "label": 0,
+    "similarity": 0.9408247470855713
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "marc_chagall/marc_chagall_0150.jpg",
+    "label": 1,
+    "similarity": 0.93760085105896
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "marc_chagall/marc_chagall_0068.jpg",
+    "label": 1,
+    "similarity": 0.9356929063796997
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "marc_chagall/marc_chagall_0174.jpg",
+    "label": 1,
+    "similarity": 0.932672917842865
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "pablo_picasso/pablo_picasso_0161.jpg",
+    "label": 0,
+    "similarity": 0.9181036353111267
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "andy_warhol/andy_warhol_0060.jpg",
+    "label": 0,
+    "similarity": 0.9175461530685425
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "marc_chagall/marc_chagall_0227.jpg",
+    "label": 1,
+    "similarity": 0.9167580008506775
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0147.jpg",
+    "result": "marc_chagall/marc_chagall_0179.jpg",
+    "label": 1,
+    "similarity": 0.9054113030433655
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0090.jpg",
+    "label": 0,
+    "similarity": 0.9826628565788269
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "diego_rivera/diego_rivera_0011.jpg",
+    "label": 1,
+    "similarity": 0.980991542339325
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0108.jpg",
+    "label": 0,
+    "similarity": 0.9795665144920349
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "diego_rivera/diego_rivera_0019.jpg",
+    "label": 1,
+    "similarity": 0.9725508689880371
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0066.jpg",
+    "label": 0,
+    "similarity": 0.97098308801651
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0066.jpg",
+    "label": 0,
+    "similarity": 0.9706026315689087
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0113.jpg",
+    "label": 0,
+    "similarity": 0.9672973155975342
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0062.jpg",
+    "label": 0,
+    "similarity": 0.966297447681427
+  },
+  {
+    "query": "diego_rivera/diego_rivera_0049.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0028.jpg",
+    "label": 0,
+    "similarity": 0.9647470712661743
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "raphael/raphael_0034.jpg",
+    "label": 0,
+    "similarity": 0.9660935401916504
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0058.jpg",
+    "label": 0,
+    "similarity": 0.9637173414230347
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "michelangelo/michelangelo_0047.jpg",
+    "label": 0,
+    "similarity": 0.9618750214576721
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0068.jpg",
+    "label": 0,
+    "similarity": 0.9613118767738342
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "michelangelo/michelangelo_0034.jpg",
+    "label": 0,
+    "similarity": 0.9603627920150757
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0091.jpg",
+    "label": 0,
+    "similarity": 0.9598063230514526
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0001.jpg",
+    "label": 0,
+    "similarity": 0.9593520760536194
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "sandro_botticelli/sandro_botticelli_0114.jpg",
+    "label": 0,
+    "similarity": 0.9590322971343994
+  },
+  {
+    "query": "leonardo_da_vinci/leonardo_da_vinci_0002.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0237.jpg",
+    "label": 0,
+    "similarity": 0.9575851559638977
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0103.jpg",
+    "label": 1,
+    "similarity": 0.8806927800178528
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "edgar_degas/edgar_degas_0063.jpg",
+    "label": 0,
+    "similarity": 0.8591598272323608
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0261.jpg",
+    "label": 1,
+    "similarity": 0.8522260189056396
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0198.jpg",
+    "label": 1,
+    "similarity": 0.8311672806739807
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "paul_gauguin/paul_gauguin_0158.jpg",
+    "label": 0,
+    "similarity": 0.8158069252967834
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0605.jpg",
+    "label": 1,
+    "similarity": 0.8042004108428955
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0557.jpg",
+    "label": 1,
+    "similarity": 0.8037399053573608
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0847.jpg",
+    "label": 1,
+    "similarity": 0.8031865358352661
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0574.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0025.jpg",
+    "label": 0,
+    "similarity": 0.802803099155426
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0103.jpg",
+    "label": 0,
+    "similarity": 0.9728471040725708
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0022.jpg",
+    "label": 1,
+    "similarity": 0.968267560005188
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0035.jpg",
+    "label": 1,
+    "similarity": 0.957210898399353
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0023.jpg",
+    "label": 0,
+    "similarity": 0.9569517374038696
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0110.jpg",
+    "label": 1,
+    "similarity": 0.9567844271659851
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "label": 1,
+    "similarity": 0.9563891887664795
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0004.jpg",
+    "label": 0,
+    "similarity": 0.9557768106460571
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0663.jpg",
+    "label": 0,
+    "similarity": 0.9556668996810913
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0030.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0017.jpg",
+    "label": 0,
+    "similarity": 0.9556527137756348
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "edgar_degas/edgar_degas_0113.jpg",
+    "label": 0,
+    "similarity": 0.9455649256706238
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0354.jpg",
+    "label": 1,
+    "similarity": 0.9440234899520874
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0734.jpg",
+    "label": 1,
+    "similarity": 0.9397740364074707
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0316.jpg",
+    "label": 1,
+    "similarity": 0.9392129182815552
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0184.jpg",
+    "label": 1,
+    "similarity": 0.9346454739570618
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "label": 1,
+    "similarity": 0.9339147806167603
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0457.jpg",
+    "label": 1,
+    "similarity": 0.9333895444869995
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0036.jpg",
+    "label": 0,
+    "similarity": 0.933139443397522
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0503.jpg",
+    "result": "pablo_picasso/pablo_picasso_0011.jpg",
+    "label": 0,
+    "similarity": 0.9309917688369751
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0056.jpg",
+    "label": 1,
+    "similarity": 0.9336164593696594
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "pablo_picasso/pablo_picasso_0391.jpg",
+    "label": 0,
+    "similarity": 0.9335296154022217
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0842.jpg",
+    "label": 1,
+    "similarity": 0.9297407865524292
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "pablo_picasso/pablo_picasso_0081.jpg",
+    "label": 0,
+    "similarity": 0.9255036115646362
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "edgar_degas/edgar_degas_0422.jpg",
+    "label": 0,
+    "similarity": 0.9228430390357971
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "pablo_picasso/pablo_picasso_0281.jpg",
+    "label": 0,
+    "similarity": 0.9208625555038452
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "edgar_degas/edgar_degas_0681.jpg",
+    "label": 0,
+    "similarity": 0.9181299209594727
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0258.jpg",
+    "label": 1,
+    "similarity": 0.9147361516952515
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0372.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0736.jpg",
+    "label": 1,
+    "similarity": 0.9135414958000183
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0135.jpg",
+    "label": 0,
+    "similarity": 0.9677442312240601
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "paul_gauguin/paul_gauguin_0165.jpg",
+    "label": 1,
+    "similarity": 0.9664564728736877
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0243.jpg",
+    "label": 0,
+    "similarity": 0.960532009601593
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "paul_gauguin/paul_gauguin_0148.jpg",
+    "label": 1,
+    "similarity": 0.9602876305580139
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "gustav_klimt/gustav_klimt_0013.jpg",
+    "label": 0,
+    "similarity": 0.9557368159294128
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "paul_gauguin/paul_gauguin_0300.jpg",
+    "label": 1,
+    "similarity": 0.9524983167648315
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "paul_gauguin/paul_gauguin_0259.jpg",
+    "label": 1,
+    "similarity": 0.9484162926673889
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "joan_miro/joan_miro_0059.jpg",
+    "label": 0,
+    "similarity": 0.9474858641624451
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0177.jpg",
+    "result": "paul_gauguin/paul_gauguin_0189.jpg",
+    "label": 1,
+    "similarity": 0.946831226348877
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "diego_velazquez/diego_velazquez_0033.jpg",
+    "label": 0,
+    "similarity": 0.9723472595214844
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "el_greco/el_greco_0044.jpg",
+    "label": 0,
+    "similarity": 0.9659773111343384
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "titian/titian_0066.jpg",
+    "label": 0,
+    "similarity": 0.96541827917099
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "rembrandt/rembrandt_0062.jpg",
+    "label": 0,
+    "similarity": 0.964730441570282
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0084.jpg",
+    "label": 1,
+    "similarity": 0.9644711017608643
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "titian/titian_0003.jpg",
+    "label": 0,
+    "similarity": 0.9642883539199829
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "francisco_goya/francisco_goya_0267.jpg",
+    "label": 0,
+    "similarity": 0.9641294479370117
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "rembrandt/rembrandt_0197.jpg",
+    "label": 0,
+    "similarity": 0.9603883624076843
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0066.jpg",
+    "result": "francisco_goya/francisco_goya_0181.jpg",
+    "label": 0,
+    "similarity": 0.9601331949234009
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "georges_seurat/georges_seurat_0019.jpg",
+    "label": 1,
+    "similarity": 0.9883706569671631
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "georges_seurat/georges_seurat_0030.jpg",
+    "label": 1,
+    "similarity": 0.9763855934143066
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "georges_seurat/georges_seurat_0008.jpg",
+    "label": 1,
+    "similarity": 0.9732962846755981
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "georges_seurat/georges_seurat_0025.jpg",
+    "label": 1,
+    "similarity": 0.9691308736801147
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "georges_seurat/georges_seurat_0010.jpg",
+    "label": 1,
+    "similarity": 0.965190052986145
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "georges_seurat/georges_seurat_0004.jpg",
+    "label": 1,
+    "similarity": 0.9644225239753723
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0559.jpg",
+    "label": 0,
+    "similarity": 0.9586044549942017
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "georges_seurat/georges_seurat_0028.jpg",
+    "label": 1,
+    "similarity": 0.9583457708358765
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0041.jpg",
+    "result": "georges_seurat/georges_seurat_0035.jpg",
+    "label": 1,
+    "similarity": 0.9572457075119019
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0685.jpg",
+    "label": 1,
+    "similarity": 0.9469015002250671
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "diego_rivera/diego_rivera_0028.jpg",
+    "label": 0,
+    "similarity": 0.9188458919525146
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "diego_rivera/diego_rivera_0034.jpg",
+    "label": 0,
+    "similarity": 0.9073413610458374
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0115.jpg",
+    "label": 0,
+    "similarity": 0.9007642269134521
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0799.jpg",
+    "label": 1,
+    "similarity": 0.898048460483551
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0129.jpg",
+    "label": 0,
+    "similarity": 0.8927185535430908
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "diego_rivera/diego_rivera_0008.jpg",
+    "label": 0,
+    "similarity": 0.891624927520752
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0393.jpg",
+    "label": 1,
+    "similarity": 0.8901360034942627
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0722.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0036.jpg",
+    "label": 0,
+    "similarity": 0.8893283605575562
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "rene_magritte/rene_magritte_0077.jpg",
+    "label": 0,
+    "similarity": 0.9347785711288452
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "andrei_rublev/andrei_rublev_0098.jpg",
+    "label": 0,
+    "similarity": 0.9293096661567688
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0041.jpg",
+    "label": 0,
+    "similarity": 0.9210385084152222
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "rene_magritte/rene_magritte_0098.jpg",
+    "label": 0,
+    "similarity": 0.9170894622802734
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "rene_magritte/rene_magritte_0029.jpg",
+    "label": 0,
+    "similarity": 0.9055202007293701
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0053.jpg",
+    "label": 0,
+    "similarity": 0.8983563780784607
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0013.jpg",
+    "label": 0,
+    "similarity": 0.8920781016349792
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "paul_gauguin/paul_gauguin_0261.jpg",
+    "label": 0,
+    "similarity": 0.8913401365280151
+  },
+  {
+    "query": "paul_klee/paul_klee_0045.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0497.jpg",
+    "label": 0,
+    "similarity": 0.8844881057739258
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "paul_gauguin/paul_gauguin_0138.jpg",
+    "label": 0,
+    "similarity": 0.9659827947616577
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "edgar_degas/edgar_degas_0423.jpg",
+    "label": 0,
+    "similarity": 0.9439487457275391
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0807.jpg",
+    "label": 0,
+    "similarity": 0.938513994216919
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "paul_gauguin/paul_gauguin_0191.jpg",
+    "label": 0,
+    "similarity": 0.9344256520271301
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0075.jpg",
+    "label": 1,
+    "similarity": 0.9341681003570557
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "pablo_picasso/pablo_picasso_0386.jpg",
+    "label": 0,
+    "similarity": 0.9329352378845215
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "edgar_degas/edgar_degas_0428.jpg",
+    "label": 0,
+    "similarity": 0.9305633306503296
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "paul_gauguin/paul_gauguin_0276.jpg",
+    "label": 0,
+    "similarity": 0.9298045635223389
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0141.jpg",
+    "result": "paul_gauguin/paul_gauguin_0240.jpg",
+    "label": 0,
+    "similarity": 0.9270615577697754
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0635.jpg",
+    "label": 1,
+    "similarity": 0.9472310543060303
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "henri_matisse/henri_matisse_0130.jpg",
+    "label": 0,
+    "similarity": 0.9444184899330139
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0163.jpg",
+    "label": 1,
+    "similarity": 0.9415581226348877
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0726.jpg",
+    "label": 1,
+    "similarity": 0.9372448921203613
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "pablo_picasso/pablo_picasso_0427.jpg",
+    "label": 0,
+    "similarity": 0.933918833732605
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0565.jpg",
+    "label": 1,
+    "similarity": 0.9325284957885742
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "henri_matisse/henri_matisse_0055.jpg",
+    "label": 0,
+    "similarity": 0.9313942193984985
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "edvard_munch/edvard_munch_0044.jpg",
+    "label": 0,
+    "similarity": 0.9303367137908936
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0199.jpg",
+    "result": "pablo_picasso/pablo_picasso_0116.jpg",
+    "label": 0,
+    "similarity": 0.9296629428863525
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "paul_gauguin/paul_gauguin_0121.jpg",
+    "label": 1,
+    "similarity": 0.9685430526733398
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "paul_gauguin/paul_gauguin_0002.jpg",
+    "label": 1,
+    "similarity": 0.9645813703536987
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "paul_gauguin/paul_gauguin_0234.jpg",
+    "label": 1,
+    "similarity": 0.9624495506286621
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "gustav_klimt/gustav_klimt_0049.jpg",
+    "label": 0,
+    "similarity": 0.9598788022994995
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "paul_gauguin/paul_gauguin_0169.jpg",
+    "label": 1,
+    "similarity": 0.9571380615234375
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "paul_gauguin/paul_gauguin_0206.jpg",
+    "label": 1,
+    "similarity": 0.9554176330566406
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "paul_gauguin/paul_gauguin_0130.jpg",
+    "label": 1,
+    "similarity": 0.9513848423957825
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "paul_gauguin/paul_gauguin_0127.jpg",
+    "label": 1,
+    "similarity": 0.9510523080825806
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0136.jpg",
+    "result": "paul_gauguin/paul_gauguin_0161.jpg",
+    "label": 1,
+    "similarity": 0.9505290985107422
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "pablo_picasso/pablo_picasso_0266.jpg",
+    "label": 1,
+    "similarity": 0.9526886940002441
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "andy_warhol/andy_warhol_0129.jpg",
+    "label": 0,
+    "similarity": 0.9504327774047852
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "andy_warhol/andy_warhol_0017.jpg",
+    "label": 0,
+    "similarity": 0.9470252990722656
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "rene_magritte/rene_magritte_0097.jpg",
+    "label": 0,
+    "similarity": 0.9457359313964844
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "label": 0,
+    "similarity": 0.9436972141265869
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "piet_mondrian/piet_mondrian_0009.jpg",
+    "label": 0,
+    "similarity": 0.9436716437339783
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "andy_warhol/andy_warhol_0162.jpg",
+    "label": 0,
+    "similarity": 0.9420969486236572
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "pablo_picasso/pablo_picasso_0138.jpg",
+    "label": 1,
+    "similarity": 0.9397382736206055
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0438.jpg",
+    "result": "andy_warhol/andy_warhol_0036.jpg",
+    "label": 0,
+    "similarity": 0.9393030405044556
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0295.jpg",
+    "label": 1,
+    "similarity": 0.9739673137664795
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0194.jpg",
+    "label": 1,
+    "similarity": 0.9683337211608887
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0066.jpg",
+    "label": 1,
+    "similarity": 0.9631785154342651
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0114.jpg",
+    "label": 1,
+    "similarity": 0.9618444442749023
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0124.jpg",
+    "label": 1,
+    "similarity": 0.9598608613014221
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0242.jpg",
+    "label": 1,
+    "similarity": 0.9597662091255188
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "gustav_klimt/gustav_klimt_0054.jpg",
+    "label": 0,
+    "similarity": 0.9579691886901855
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0009.jpg",
+    "label": 1,
+    "similarity": 0.9578173160552979
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0188.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0253.jpg",
+    "label": 1,
+    "similarity": 0.9564703702926636
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0036.jpg",
+    "label": 0,
+    "similarity": 0.9627746343612671
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "edgar_degas/edgar_degas_0432.jpg",
+    "label": 0,
+    "similarity": 0.9594507813453674
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "edgar_degas/edgar_degas_0562.jpg",
+    "label": 0,
+    "similarity": 0.9508475065231323
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "pierre_auguste_renoir/pierre_auguste_renoir_0043.jpg",
+    "label": 0,
+    "similarity": 0.9504775404930115
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "paul_gauguin/paul_gauguin_0303.jpg",
+    "label": 1,
+    "similarity": 0.9454552531242371
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "paul_gauguin/paul_gauguin_0012.jpg",
+    "label": 1,
+    "similarity": 0.944489598274231
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "paul_gauguin/paul_gauguin_0038.jpg",
+    "label": 1,
+    "similarity": 0.9374929666519165
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0024.jpg",
+    "label": 0,
+    "similarity": 0.9366289973258972
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0170.jpg",
+    "result": "edvard_munch/edvard_munch_0065.jpg",
+    "label": 0,
+    "similarity": 0.9358851909637451
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0750.jpg",
+    "label": 1,
+    "similarity": 0.9142451882362366
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0091.jpg",
+    "label": 0,
+    "similarity": 0.9068911671638489
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "pablo_picasso/pablo_picasso_0383.jpg",
+    "label": 0,
+    "similarity": 0.9026404619216919
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0546.jpg",
+    "label": 1,
+    "similarity": 0.894799530506134
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "camille_pissarro/camille_pissarro_0003.jpg",
+    "label": 0,
+    "similarity": 0.8804799318313599
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "camille_pissarro/camille_pissarro_0026.jpg",
+    "label": 0,
+    "similarity": 0.8785607814788818
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "camille_pissarro/camille_pissarro_0085.jpg",
+    "label": 0,
+    "similarity": 0.8765321373939514
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0417.jpg",
+    "label": 1,
+    "similarity": 0.8742351531982422
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0535.jpg",
+    "result": "camille_pissarro/camille_pissarro_0043.jpg",
+    "label": 0,
+    "similarity": 0.8702774047851562
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0034.jpg",
+    "label": 1,
+    "similarity": 0.9891015291213989
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0066.jpg",
+    "label": 0,
+    "similarity": 0.9851779341697693
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0106.jpg",
+    "label": 1,
+    "similarity": 0.983974814414978
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0113.jpg",
+    "label": 1,
+    "similarity": 0.9828599095344543
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0041.jpg",
+    "label": 0,
+    "similarity": 0.9826008677482605
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "diego_rivera/diego_rivera_0035.jpg",
+    "label": 0,
+    "similarity": 0.9801340103149414
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0045.jpg",
+    "label": 1,
+    "similarity": 0.9766903519630432
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0056.jpg",
+    "label": 1,
+    "similarity": 0.9764788150787354
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0109.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0033.jpg",
+    "label": 1,
+    "similarity": 0.9757202863693237
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "michelangelo/michelangelo_0039.jpg",
+    "label": 0,
+    "similarity": 0.967541515827179
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "raphael/raphael_0088.jpg",
+    "label": 0,
+    "similarity": 0.9639663696289062
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "raphael/raphael_0010.jpg",
+    "label": 0,
+    "similarity": 0.9627655148506165
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "raphael/raphael_0054.jpg",
+    "label": 0,
+    "similarity": 0.9581074714660645
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "sandro_botticelli/sandro_botticelli_0075.jpg",
+    "label": 0,
+    "similarity": 0.9575067758560181
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "raphael/raphael_0109.jpg",
+    "label": 0,
+    "similarity": 0.9570460319519043
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "raphael/raphael_0068.jpg",
+    "label": 0,
+    "similarity": 0.9560128450393677
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "raphael/raphael_0065.jpg",
+    "label": 0,
+    "similarity": 0.9556984305381775
+  },
+  {
+    "query": "rembrandt/rembrandt_0027.jpg",
+    "result": "raphael/raphael_0059.jpg",
+    "label": 0,
+    "similarity": 0.9544615745544434
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0062.jpg",
+    "label": 1,
+    "similarity": 0.9824832677841187
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0038.jpg",
+    "label": 1,
+    "similarity": 0.9760525226593018
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0022.jpg",
+    "label": 1,
+    "similarity": 0.9743115901947021
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0002.jpg",
+    "label": 1,
+    "similarity": 0.9725812077522278
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0103.jpg",
+    "label": 0,
+    "similarity": 0.9722621440887451
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0130.jpg",
+    "label": 1,
+    "similarity": 0.9720368981361389
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0086.jpg",
+    "label": 0,
+    "similarity": 0.9700444936752319
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0099.jpg",
+    "label": 1,
+    "similarity": 0.969836950302124
+  },
+  {
+    "query": "hieronymus_bosch/hieronymus_bosch_0100.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0321.jpg",
+    "label": 0,
+    "similarity": 0.9671122431755066
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "edgar_degas/edgar_degas_0258.jpg",
+    "label": 1,
+    "similarity": 0.9588867425918579
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "edgar_degas/edgar_degas_0406.jpg",
+    "label": 1,
+    "similarity": 0.9481873512268066
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "edgar_degas/edgar_degas_0078.jpg",
+    "label": 1,
+    "similarity": 0.9350032210350037
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "edgar_degas/edgar_degas_0164.jpg",
+    "label": 1,
+    "similarity": 0.9292272329330444
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "edgar_degas/edgar_degas_0377.jpg",
+    "label": 1,
+    "similarity": 0.9190229177474976
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "paul_cezanne/paul_cezanne_0004.jpg",
+    "label": 0,
+    "similarity": 0.9121479392051697
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "edgar_degas/edgar_degas_0659.jpg",
+    "label": 1,
+    "similarity": 0.9101800322532654
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "pierre_auguste_renoir/pierre_auguste_renoir_0317.jpg",
+    "label": 0,
+    "similarity": 0.9099225401878357
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0288.jpg",
+    "result": "edgar_degas/edgar_degas_0023.jpg",
+    "label": 1,
+    "similarity": 0.9067178964614868
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0095.jpg",
+    "label": 0,
+    "similarity": 0.9044092893600464
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "salvador_dali/salvador_dali_0013.jpg",
+    "label": 0,
+    "similarity": 0.8922949433326721
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0043.jpg",
+    "label": 0,
+    "similarity": 0.8755576014518738
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "salvador_dali/salvador_dali_0054.jpg",
+    "label": 0,
+    "similarity": 0.87473464012146
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "salvador_dali/salvador_dali_0001.jpg",
+    "label": 0,
+    "similarity": 0.8691288828849792
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "salvador_dali/salvador_dali_0025.jpg",
+    "label": 0,
+    "similarity": 0.8598381280899048
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "leonardo_da_vinci/leonardo_da_vinci_0140.jpg",
+    "label": 0,
+    "similarity": 0.859605073928833
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "salvador_dali/salvador_dali_0080.jpg",
+    "label": 0,
+    "similarity": 0.8551942110061646
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0110.jpg",
+    "result": "rene_magritte/rene_magritte_0058.jpg",
+    "label": 0,
+    "similarity": 0.8532642126083374
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "pablo_picasso/pablo_picasso_0401.jpg",
+    "label": 0,
+    "similarity": 0.975174069404602
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0023.jpg",
+    "label": 0,
+    "similarity": 0.9723187685012817
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0030.jpg",
+    "label": 0,
+    "similarity": 0.9678418636322021
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0038.jpg",
+    "label": 0,
+    "similarity": 0.9671656489372253
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0003.jpg",
+    "label": 0,
+    "similarity": 0.9661611318588257
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0170.jpg",
+    "label": 0,
+    "similarity": 0.96562260389328
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0071.jpg",
+    "label": 0,
+    "similarity": 0.9645525813102722
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0053.jpg",
+    "label": 0,
+    "similarity": 0.9629325866699219
+  },
+  {
+    "query": "frida_kahlo/frida_kahlo_0102.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0109.jpg",
+    "label": 0,
+    "similarity": 0.9626895189285278
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0121.jpg",
+    "label": 1,
+    "similarity": 0.9931159019470215
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0095.jpg",
+    "label": 1,
+    "similarity": 0.9849365949630737
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "eugene_delacroix/eugene_delacroix_0028.jpg",
+    "label": 0,
+    "similarity": 0.9812467694282532
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "titian/titian_0225.jpg",
+    "label": 0,
+    "similarity": 0.9734829664230347
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0048.jpg",
+    "label": 1,
+    "similarity": 0.9692577123641968
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0072.jpg",
+    "label": 1,
+    "similarity": 0.9587117433547974
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0049.jpg",
+    "label": 1,
+    "similarity": 0.9579566121101379
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0108.jpg",
+    "label": 1,
+    "similarity": 0.9577863216400146
+  },
+  {
+    "query": "peter_paul_rubens/peter_paul_rubens_0133.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0075.jpg",
+    "label": 1,
+    "similarity": 0.9541710615158081
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "paul_klee/paul_klee_0140.jpg",
+    "label": 1,
+    "similarity": 0.9713855981826782
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "paul_klee/paul_klee_0037.jpg",
+    "label": 1,
+    "similarity": 0.9616086483001709
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "paul_klee/paul_klee_0076.jpg",
+    "label": 1,
+    "similarity": 0.9614237546920776
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0119.jpg",
+    "label": 0,
+    "similarity": 0.9598128795623779
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "paul_klee/paul_klee_0144.jpg",
+    "label": 1,
+    "similarity": 0.9583350419998169
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "paul_klee/paul_klee_0097.jpg",
+    "label": 1,
+    "similarity": 0.9563950300216675
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "paul_klee/paul_klee_0018.jpg",
+    "label": 1,
+    "similarity": 0.9559881687164307
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "paul_klee/paul_klee_0032.jpg",
+    "label": 1,
+    "similarity": 0.9538732767105103
+  },
+  {
+    "query": "paul_klee/paul_klee_0095.jpg",
+    "result": "paul_klee/paul_klee_0024.jpg",
+    "label": 1,
+    "similarity": 0.9527663588523865
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "joan_miro/joan_miro_0008.jpg",
+    "label": 1,
+    "similarity": 0.9756978154182434
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "andy_warhol/andy_warhol_0172.jpg",
+    "label": 0,
+    "similarity": 0.9689347147941589
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "andy_warhol/andy_warhol_0074.jpg",
+    "label": 0,
+    "similarity": 0.9654533863067627
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "joan_miro/joan_miro_0028.jpg",
+    "label": 1,
+    "similarity": 0.9648995399475098
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "joan_miro/joan_miro_0083.jpg",
+    "label": 1,
+    "similarity": 0.9645751118659973
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "joan_miro/joan_miro_0078.jpg",
+    "label": 1,
+    "similarity": 0.9634616374969482
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "joan_miro/joan_miro_0048.jpg",
+    "label": 1,
+    "similarity": 0.9620267152786255
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "joan_miro/joan_miro_0063.jpg",
+    "label": 1,
+    "similarity": 0.9611934423446655
+  },
+  {
+    "query": "joan_miro/joan_miro_0009.jpg",
+    "result": "joan_miro/joan_miro_0095.jpg",
+    "label": 1,
+    "similarity": 0.9603351354598999
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "andy_warhol/andy_warhol_0124.jpg",
+    "label": 0,
+    "similarity": 0.9378923177719116
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "rene_magritte/rene_magritte_0044.jpg",
+    "label": 1,
+    "similarity": 0.9348562955856323
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "rene_magritte/rene_magritte_0130.jpg",
+    "label": 1,
+    "similarity": 0.9312275648117065
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "rene_magritte/rene_magritte_0080.jpg",
+    "label": 1,
+    "similarity": 0.9295885562896729
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "rene_magritte/rene_magritte_0179.jpg",
+    "label": 1,
+    "similarity": 0.9294615387916565
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "rene_magritte/rene_magritte_0174.jpg",
+    "label": 1,
+    "similarity": 0.9292054176330566
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "rene_magritte/rene_magritte_0099.jpg",
+    "label": 1,
+    "similarity": 0.9262310266494751
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "rene_magritte/rene_magritte_0075.jpg",
+    "label": 1,
+    "similarity": 0.9243621826171875
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0040.jpg",
+    "result": "andy_warhol/andy_warhol_0113.jpg",
+    "label": 0,
+    "similarity": 0.9226981997489929
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0051.jpg",
+    "label": 1,
+    "similarity": 0.983601450920105
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0048.jpg",
+    "label": 1,
+    "similarity": 0.979214072227478
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0002.jpg",
+    "label": 1,
+    "similarity": 0.9784062504768372
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0040.jpg",
+    "label": 1,
+    "similarity": 0.9761194586753845
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0009.jpg",
+    "label": 1,
+    "similarity": 0.9744040369987488
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0022.jpg",
+    "label": 1,
+    "similarity": 0.9718247652053833
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0039.jpg",
+    "label": 1,
+    "similarity": 0.9580333232879639
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0018.jpg",
+    "label": 1,
+    "similarity": 0.9551855325698853
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0052.jpg",
+    "result": "henri_rousseau/henri_rousseau_0026.jpg",
+    "label": 1,
+    "similarity": 0.9546917676925659
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "pablo_picasso/pablo_picasso_0266.jpg",
+    "label": 0,
+    "similarity": 0.9679059386253357
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0081.jpg",
+    "label": 0,
+    "similarity": 0.9571739435195923
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "andy_warhol/andy_warhol_0012.jpg",
+    "label": 0,
+    "similarity": 0.9568392038345337
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "andy_warhol/andy_warhol_0129.jpg",
+    "label": 0,
+    "similarity": 0.9557398557662964
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0106.jpg",
+    "label": 0,
+    "similarity": 0.9534560441970825
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "andy_warhol/andy_warhol_0038.jpg",
+    "label": 0,
+    "similarity": 0.9497600793838501
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "rene_magritte/rene_magritte_0009.jpg",
+    "label": 0,
+    "similarity": 0.9476065039634705
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0099.jpg",
+    "label": 0,
+    "similarity": 0.9474871754646301
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0130.jpg",
+    "result": "pablo_picasso/pablo_picasso_0438.jpg",
+    "label": 0,
+    "similarity": 0.9436972141265869
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0072.jpg",
+    "label": 1,
+    "similarity": 0.9911346435546875
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0073.jpg",
+    "label": 1,
+    "similarity": 0.9881696105003357
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0088.jpg",
+    "label": 1,
+    "similarity": 0.9881668090820312
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "michelangelo/michelangelo_0010.jpg",
+    "label": 0,
+    "similarity": 0.9848827123641968
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0090.jpg",
+    "label": 1,
+    "similarity": 0.984067440032959
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "michelangelo/michelangelo_0008.jpg",
+    "label": 0,
+    "similarity": 0.984024703502655
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "michelangelo/michelangelo_0041.jpg",
+    "label": 0,
+    "similarity": 0.982543408870697
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "michelangelo/michelangelo_0014.jpg",
+    "label": 0,
+    "similarity": 0.9821231961250305
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0078.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0012.jpg",
+    "label": 1,
+    "similarity": 0.9821131229400635
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0185.jpg",
+    "label": 1,
+    "similarity": 0.9733525514602661
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0068.jpg",
+    "label": 1,
+    "similarity": 0.9684857726097107
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0142.jpg",
+    "label": 1,
+    "similarity": 0.9672148823738098
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0168.jpg",
+    "label": 1,
+    "similarity": 0.9620981216430664
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0246.jpg",
+    "label": 1,
+    "similarity": 0.9598593711853027
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0267.jpg",
+    "label": 1,
+    "similarity": 0.9596116542816162
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0116.jpg",
+    "label": 1,
+    "similarity": 0.958075761795044
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0296.jpg",
+    "label": 1,
+    "similarity": 0.9574931859970093
+  },
+  {
+    "query": "paul_gauguin/paul_gauguin_0135.jpg",
+    "result": "paul_gauguin/paul_gauguin_0042.jpg",
+    "label": 1,
+    "similarity": 0.9569599628448486
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0578.jpg",
+    "label": 1,
+    "similarity": 0.9796572923660278
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0763.jpg",
+    "label": 1,
+    "similarity": 0.9487209916114807
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "vasiliy_kandinskiy/vasiliy_kandinskiy_0034.jpg",
+    "label": 0,
+    "similarity": 0.9482153654098511
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "henri_matisse/henri_matisse_0044.jpg",
+    "label": 0,
+    "similarity": 0.9223483800888062
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "henri_matisse/henri_matisse_0090.jpg",
+    "label": 0,
+    "similarity": 0.9195606708526611
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "pablo_picasso/pablo_picasso_0140.jpg",
+    "label": 0,
+    "similarity": 0.9186906814575195
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "pablo_picasso/pablo_picasso_0251.jpg",
+    "label": 0,
+    "similarity": 0.9133548140525818
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0589.jpg",
+    "label": 1,
+    "similarity": 0.9125919342041016
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0289.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0131.jpg",
+    "label": 1,
+    "similarity": 0.9107769727706909
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0012.jpg",
+    "label": 1,
+    "similarity": 0.975710928440094
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0018.jpg",
+    "label": 1,
+    "similarity": 0.9748361110687256
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0114.jpg",
+    "label": 1,
+    "similarity": 0.9696441292762756
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0123.jpg",
+    "label": 1,
+    "similarity": 0.9661267995834351
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0098.jpg",
+    "label": 1,
+    "similarity": 0.9649621248245239
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0068.jpg",
+    "label": 1,
+    "similarity": 0.9636549949645996
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0063.jpg",
+    "label": 1,
+    "similarity": 0.9628527164459229
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "pablo_picasso/pablo_picasso_0429.jpg",
+    "label": 0,
+    "similarity": 0.960240364074707
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0176.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0128.jpg",
+    "label": 1,
+    "similarity": 0.9576916098594666
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "edouard_manet/edouard_manet_0048.jpg",
+    "label": 0,
+    "similarity": 0.9370815753936768
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0502.jpg",
+    "label": 0,
+    "similarity": 0.9311923384666443
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "edgar_degas/edgar_degas_0702.jpg",
+    "label": 0,
+    "similarity": 0.9285597205162048
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "paul_cezanne/paul_cezanne_0033.jpg",
+    "label": 0,
+    "similarity": 0.9272379875183105
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "edouard_manet/edouard_manet_0068.jpg",
+    "label": 0,
+    "similarity": 0.9247324466705322
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0117.jpg",
+    "label": 0,
+    "similarity": 0.9229670166969299
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "francisco_goya/francisco_goya_0013.jpg",
+    "label": 0,
+    "similarity": 0.9208812713623047
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "paul_gauguin/paul_gauguin_0044.jpg",
+    "label": 0,
+    "similarity": 0.9199279546737671
+  },
+  {
+    "query": "mikhail_vrubel/mikhail_vrubel_0036.jpg",
+    "result": "edgar_degas/edgar_degas_0109.jpg",
+    "label": 0,
+    "similarity": 0.919387936592102
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "edouard_manet/edouard_manet_0001.jpg",
+    "label": 1,
+    "similarity": 0.9693183898925781
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "edouard_manet/edouard_manet_0048.jpg",
+    "label": 1,
+    "similarity": 0.9674292206764221
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0780.jpg",
+    "label": 0,
+    "similarity": 0.9667310118675232
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "edgar_degas/edgar_degas_0271.jpg",
+    "label": 0,
+    "similarity": 0.9661287069320679
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "francisco_goya/francisco_goya_0283.jpg",
+    "label": 0,
+    "similarity": 0.9648816585540771
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "edgar_degas/edgar_degas_0381.jpg",
+    "label": 0,
+    "similarity": 0.9607750177383423
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "edouard_manet/edouard_manet_0087.jpg",
+    "label": 1,
+    "similarity": 0.9590259194374084
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0119.jpg",
+    "label": 0,
+    "similarity": 0.9583102464675903
+  },
+  {
+    "query": "edouard_manet/edouard_manet_0008.jpg",
+    "result": "edouard_manet/edouard_manet_0068.jpg",
+    "label": 1,
+    "similarity": 0.9576014876365662
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "francisco_goya/francisco_goya_0204.jpg",
+    "label": 0,
+    "similarity": 0.9545637369155884
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "rembrandt/rembrandt_0195.jpg",
+    "label": 0,
+    "similarity": 0.9540174603462219
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "edouard_manet/edouard_manet_0029.jpg",
+    "label": 0,
+    "similarity": 0.9508481025695801
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "francisco_goya/francisco_goya_0221.jpg",
+    "label": 0,
+    "similarity": 0.9507509469985962
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "rembrandt/rembrandt_0001.jpg",
+    "label": 0,
+    "similarity": 0.9504528045654297
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "rembrandt/rembrandt_0218.jpg",
+    "label": 0,
+    "similarity": 0.9503839015960693
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "edouard_manet/edouard_manet_0028.jpg",
+    "label": 0,
+    "similarity": 0.9499795436859131
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "edgar_degas/edgar_degas_0344.jpg",
+    "label": 1,
+    "similarity": 0.9478071928024292
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0373.jpg",
+    "result": "rembrandt/rembrandt_0209.jpg",
+    "label": 0,
+    "similarity": 0.9470561742782593
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "paul_klee/paul_klee_0039.jpg",
+    "label": 0,
+    "similarity": 0.9356483221054077
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "paul_klee/paul_klee_0088.jpg",
+    "label": 0,
+    "similarity": 0.9352216720581055
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0015.jpg",
+    "label": 0,
+    "similarity": 0.934745192527771
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "paul_gauguin/paul_gauguin_0262.jpg",
+    "label": 0,
+    "similarity": 0.9331970810890198
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "paul_klee/paul_klee_0170.jpg",
+    "label": 0,
+    "similarity": 0.929510235786438
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0024.jpg",
+    "label": 0,
+    "similarity": 0.9244375824928284
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "paul_klee/paul_klee_0030.jpg",
+    "label": 0,
+    "similarity": 0.92097008228302
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0097.jpg",
+    "label": 0,
+    "similarity": 0.9208297729492188
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0567.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0025.jpg",
+    "label": 0,
+    "similarity": 0.9205732941627502
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "el_greco/el_greco_0079.jpg",
+    "label": 1,
+    "similarity": 0.9535567760467529
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "el_greco/el_greco_0014.jpg",
+    "label": 1,
+    "similarity": 0.9514263868331909
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "francisco_goya/francisco_goya_0074.jpg",
+    "label": 0,
+    "similarity": 0.938762366771698
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "el_greco/el_greco_0060.jpg",
+    "label": 1,
+    "similarity": 0.933953583240509
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "rene_magritte/rene_magritte_0007.jpg",
+    "label": 0,
+    "similarity": 0.9309736490249634
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "el_greco/el_greco_0011.jpg",
+    "label": 1,
+    "similarity": 0.9222769737243652
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "el_greco/el_greco_0047.jpg",
+    "label": 1,
+    "similarity": 0.9200958013534546
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "el_greco/el_greco_0068.jpg",
+    "label": 1,
+    "similarity": 0.917180061340332
+  },
+  {
+    "query": "el_greco/el_greco_0057.jpg",
+    "result": "el_greco/el_greco_0081.jpg",
+    "label": 1,
+    "similarity": 0.9163216352462769
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "andy_warhol/andy_warhol_0091.jpg",
+    "label": 0,
+    "similarity": 0.9655296206474304
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "joan_miro/joan_miro_0046.jpg",
+    "label": 0,
+    "similarity": 0.9578657746315002
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "pablo_picasso/pablo_picasso_0288.jpg",
+    "label": 0,
+    "similarity": 0.9562407732009888
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "pablo_picasso/pablo_picasso_0415.jpg",
+    "label": 0,
+    "similarity": 0.9398293495178223
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "pablo_picasso/pablo_picasso_0190.jpg",
+    "label": 0,
+    "similarity": 0.9394880533218384
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0046.jpg",
+    "label": 0,
+    "similarity": 0.9378130435943604
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "pablo_picasso/pablo_picasso_0284.jpg",
+    "label": 0,
+    "similarity": 0.935975193977356
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "pablo_picasso/pablo_picasso_0108.jpg",
+    "label": 0,
+    "similarity": 0.9359130263328552
+  },
+  {
+    "query": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "result": "joan_miro/joan_miro_0055.jpg",
+    "label": 0,
+    "similarity": 0.9324992895126343
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0014.jpg",
+    "label": 1,
+    "similarity": 0.9944514036178589
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0003.jpg",
+    "label": 1,
+    "similarity": 0.9883320927619934
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0033.jpg",
+    "label": 1,
+    "similarity": 0.9861410856246948
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0022.jpg",
+    "label": 1,
+    "similarity": 0.9834448099136353
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0015.jpg",
+    "label": 1,
+    "similarity": 0.9832539558410645
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0034.jpg",
+    "label": 1,
+    "similarity": 0.983109712600708
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0002.jpg",
+    "label": 1,
+    "similarity": 0.9829345941543579
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0020.jpg",
+    "label": 1,
+    "similarity": 0.9828513264656067
+  },
+  {
+    "query": "georges_seurat/georges_seurat_0005.jpg",
+    "result": "georges_seurat/georges_seurat_0026.jpg",
+    "label": 1,
+    "similarity": 0.9812768697738647
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "andrei_rublev/andrei_rublev_0082.jpg",
+    "label": 1,
+    "similarity": 0.9590380191802979
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "andrei_rublev/andrei_rublev_0026.jpg",
+    "label": 1,
+    "similarity": 0.9417811036109924
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0633.jpg",
+    "label": 0,
+    "similarity": 0.9397282600402832
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "andrei_rublev/andrei_rublev_0034.jpg",
+    "label": 1,
+    "similarity": 0.9368991255760193
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "andrei_rublev/andrei_rublev_0088.jpg",
+    "label": 1,
+    "similarity": 0.9362650513648987
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "pieter_bruegel/pieter_bruegel_0014.jpg",
+    "label": 0,
+    "similarity": 0.925475537776947
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "andrei_rublev/andrei_rublev_0050.jpg",
+    "label": 1,
+    "similarity": 0.9240378141403198
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "andrei_rublev/andrei_rublev_0062.jpg",
+    "label": 1,
+    "similarity": 0.9225167632102966
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0010.jpg",
+    "result": "andrei_rublev/andrei_rublev_0019.jpg",
+    "label": 1,
+    "similarity": 0.9173779487609863
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "henri_matisse/henri_matisse_0147.jpg",
+    "label": 0,
+    "similarity": 0.9603033661842346
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "paul_cezanne/paul_cezanne_0013.jpg",
+    "label": 0,
+    "similarity": 0.9343260526657104
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "marc_chagall/marc_chagall_0096.jpg",
+    "label": 0,
+    "similarity": 0.9301217794418335
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "vasiliy_kandinskiy/vasiliy_kandinskiy_0035.jpg",
+    "label": 0,
+    "similarity": 0.927113950252533
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "frida_kahlo/frida_kahlo_0030.jpg",
+    "label": 0,
+    "similarity": 0.9226107597351074
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "henri_matisse/henri_matisse_0175.jpg",
+    "label": 0,
+    "similarity": 0.918694019317627
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "pablo_picasso/pablo_picasso_0304.jpg",
+    "label": 0,
+    "similarity": 0.9167023301124573
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "pablo_picasso/pablo_picasso_0060.jpg",
+    "label": 0,
+    "similarity": 0.9113129377365112
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0646.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0143.jpg",
+    "label": 0,
+    "similarity": 0.9092279672622681
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0171.jpg",
+    "label": 0,
+    "similarity": 0.9111660718917847
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0031.jpg",
+    "label": 0,
+    "similarity": 0.9081423878669739
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0090.jpg",
+    "label": 0,
+    "similarity": 0.8959628939628601
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "andrei_rublev/andrei_rublev_0003.jpg",
+    "label": 1,
+    "similarity": 0.890384316444397
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "pablo_picasso/pablo_picasso_0124.jpg",
+    "label": 0,
+    "similarity": 0.8889976143836975
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0106.jpg",
+    "label": 0,
+    "similarity": 0.8843753337860107
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "andrei_rublev/andrei_rublev_0058.jpg",
+    "label": 1,
+    "similarity": 0.8822561502456665
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "edgar_degas/edgar_degas_0168.jpg",
+    "label": 0,
+    "similarity": 0.8790605664253235
+  },
+  {
+    "query": "andrei_rublev/andrei_rublev_0079.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0167.jpg",
+    "label": 0,
+    "similarity": 0.8787544965744019
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0082.jpg",
+    "label": 1,
+    "similarity": 0.9843305349349976
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0093.jpg",
+    "label": 1,
+    "similarity": 0.9799129366874695
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0302.jpg",
+    "label": 1,
+    "similarity": 0.9792030453681946
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0098.jpg",
+    "label": 1,
+    "similarity": 0.978413999080658
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0135.jpg",
+    "label": 1,
+    "similarity": 0.9731497168540955
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0086.jpg",
+    "label": 1,
+    "similarity": 0.9724913835525513
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0229.jpg",
+    "label": 1,
+    "similarity": 0.9724879264831543
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0090.jpg",
+    "label": 1,
+    "similarity": 0.9723695516586304
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0207.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0166.jpg",
+    "label": 1,
+    "similarity": 0.9701113700866699
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0063.jpg",
+    "label": 1,
+    "similarity": 0.9886500835418701
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0230.jpg",
+    "label": 1,
+    "similarity": 0.9855507612228394
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0072.jpg",
+    "label": 1,
+    "similarity": 0.9838044047355652
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0027.jpg",
+    "label": 1,
+    "similarity": 0.9837844371795654
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0199.jpg",
+    "label": 1,
+    "similarity": 0.9829577207565308
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0284.jpg",
+    "label": 1,
+    "similarity": 0.9823731184005737
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "francisco_goya/francisco_goya_0180.jpg",
+    "label": 0,
+    "similarity": 0.9822613000869751
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0247.jpg",
+    "label": 1,
+    "similarity": 0.9821975231170654
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0129.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0147.jpg",
+    "label": 1,
+    "similarity": 0.9792890548706055
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0032.jpg",
+    "label": 1,
+    "similarity": 0.9732438325881958
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0009.jpg",
+    "label": 1,
+    "similarity": 0.971515953540802
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0002.jpg",
+    "label": 1,
+    "similarity": 0.9708737730979919
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0056.jpg",
+    "label": 1,
+    "similarity": 0.9700391888618469
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0048.jpg",
+    "label": 1,
+    "similarity": 0.9696226716041565
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0040.jpg",
+    "label": 1,
+    "similarity": 0.9674410820007324
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0022.jpg",
+    "label": 1,
+    "similarity": 0.9663804769515991
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0054.jpg",
+    "label": 1,
+    "similarity": 0.9593726396560669
+  },
+  {
+    "query": "henri_rousseau/henri_rousseau_0024.jpg",
+    "result": "henri_rousseau/henri_rousseau_0051.jpg",
+    "label": 1,
+    "similarity": 0.9583326578140259
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0058.jpg",
+    "label": 0,
+    "similarity": 0.958877682685852
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "jan_van_eyck/jan_van_eyck_0035.jpg",
+    "label": 1,
+    "similarity": 0.9454785585403442
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0011.jpg",
+    "label": 0,
+    "similarity": 0.9435432553291321
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "salvador_dali/salvador_dali_0012.jpg",
+    "label": 0,
+    "similarity": 0.9236531257629395
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0097.jpg",
+    "label": 0,
+    "similarity": 0.9216238260269165
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "hieronymus_bosch/hieronymus_bosch_0132.jpg",
+    "label": 0,
+    "similarity": 0.9163724184036255
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "sandro_botticelli/sandro_botticelli_0125.jpg",
+    "label": 0,
+    "similarity": 0.9162280559539795
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0100.jpg",
+    "label": 0,
+    "similarity": 0.9162085056304932
+  },
+  {
+    "query": "jan_van_eyck/jan_van_eyck_0033.jpg",
+    "result": "jan_van_eyck/jan_van_eyck_0051.jpg",
+    "label": 1,
+    "similarity": 0.9160484671592712
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "vasiliy_kandinskiy/vasiliy_kandinskiy_0033.jpg",
+    "label": 0,
+    "similarity": 0.9578657746315002
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "vasiliy_kandinskiy/vasiliy_kandinskiy_0078.jpg",
+    "label": 0,
+    "similarity": 0.9273031949996948
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "joan_miro/joan_miro_0011.jpg",
+    "label": 1,
+    "similarity": 0.9270966649055481
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "pablo_picasso/pablo_picasso_0190.jpg",
+    "label": 0,
+    "similarity": 0.9263657927513123
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "pablo_picasso/pablo_picasso_0415.jpg",
+    "label": 0,
+    "similarity": 0.9260419607162476
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0109.jpg",
+    "label": 0,
+    "similarity": 0.9239266514778137
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "paul_klee/paul_klee_0172.jpg",
+    "label": 0,
+    "similarity": 0.9219499230384827
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "andy_warhol/andy_warhol_0091.jpg",
+    "label": 0,
+    "similarity": 0.9198104739189148
+  },
+  {
+    "query": "joan_miro/joan_miro_0046.jpg",
+    "result": "joan_miro/joan_miro_0043.jpg",
+    "label": 1,
+    "similarity": 0.9197314977645874
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0109.jpg",
+    "label": 1,
+    "similarity": 0.9569158554077148
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0061.jpg",
+    "label": 1,
+    "similarity": 0.9494512677192688
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0079.jpg",
+    "label": 1,
+    "similarity": 0.9426199197769165
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0030.jpg",
+    "label": 1,
+    "similarity": 0.9416733384132385
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0066.jpg",
+    "label": 1,
+    "similarity": 0.9371222257614136
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0172.jpg",
+    "label": 1,
+    "similarity": 0.9358216524124146
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0119.jpg",
+    "label": 1,
+    "similarity": 0.9286786913871765
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0108.jpg",
+    "label": 1,
+    "similarity": 0.9275239706039429
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0101.jpg",
+    "result": "rene_magritte/rene_magritte_0156.jpg",
+    "label": 1,
+    "similarity": 0.9274848699569702
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "paul_gauguin/paul_gauguin_0037.jpg",
+    "label": 0,
+    "similarity": 0.9671132564544678
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "paul_gauguin/paul_gauguin_0077.jpg",
+    "label": 0,
+    "similarity": 0.9645550847053528
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "paul_gauguin/paul_gauguin_0282.jpg",
+    "label": 0,
+    "similarity": 0.9619523882865906
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "gustav_klimt/gustav_klimt_0103.jpg",
+    "label": 1,
+    "similarity": 0.9587355852127075
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "piet_mondrian/piet_mondrian_0030.jpg",
+    "label": 0,
+    "similarity": 0.9515904188156128
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "gustav_klimt/gustav_klimt_0111.jpg",
+    "label": 1,
+    "similarity": 0.9499749541282654
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "paul_gauguin/paul_gauguin_0097.jpg",
+    "label": 0,
+    "similarity": 0.9491974115371704
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "paul_gauguin/paul_gauguin_0006.jpg",
+    "label": 0,
+    "similarity": 0.9481526613235474
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0045.jpg",
+    "result": "paul_gauguin/paul_gauguin_0249.jpg",
+    "label": 0,
+    "similarity": 0.9452627897262573
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "pablo_picasso/pablo_picasso_0097.jpg",
+    "label": 1,
+    "similarity": 0.9665568470954895
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0460.jpg",
+    "label": 0,
+    "similarity": 0.9611189961433411
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "pablo_picasso/pablo_picasso_0393.jpg",
+    "label": 1,
+    "similarity": 0.9499147534370422
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "pablo_picasso/pablo_picasso_0090.jpg",
+    "label": 1,
+    "similarity": 0.9497842192649841
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0080.jpg",
+    "label": 0,
+    "similarity": 0.9466925859451294
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0258.jpg",
+    "label": 0,
+    "similarity": 0.9460127353668213
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "vasiliy_kandinskiy/vasiliy_kandinskiy_0048.jpg",
+    "label": 0,
+    "similarity": 0.9439829587936401
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "henri_matisse/henri_matisse_0165.jpg",
+    "label": 0,
+    "similarity": 0.9403332471847534
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0081.jpg",
+    "result": "edgar_degas/edgar_degas_0422.jpg",
+    "label": 0,
+    "similarity": 0.9398592710494995
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "pablo_picasso/pablo_picasso_0156.jpg",
+    "label": 1,
+    "similarity": 0.9127392172813416
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "pablo_picasso/pablo_picasso_0279.jpg",
+    "label": 1,
+    "similarity": 0.8985875248908997
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "paul_gauguin/paul_gauguin_0131.jpg",
+    "label": 0,
+    "similarity": 0.894579291343689
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "paul_gauguin/paul_gauguin_0050.jpg",
+    "label": 0,
+    "similarity": 0.8878335952758789
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "andrei_rublev/andrei_rublev_0023.jpg",
+    "label": 0,
+    "similarity": 0.8836971521377563
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "pablo_picasso/pablo_picasso_0057.jpg",
+    "label": 1,
+    "similarity": 0.8778274059295654
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0112.jpg",
+    "label": 0,
+    "similarity": 0.877188503742218
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0161.jpg",
+    "label": 0,
+    "similarity": 0.8670629858970642
+  },
+  {
+    "query": "pablo_picasso/pablo_picasso_0208.jpg",
+    "result": "paul_gauguin/paul_gauguin_0268.jpg",
+    "label": 0,
+    "similarity": 0.863601803779602
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "andy_warhol/andy_warhol_0070.jpg",
+    "label": 0,
+    "similarity": 0.9516162872314453
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "marc_chagall/marc_chagall_0128.jpg",
+    "label": 1,
+    "similarity": 0.9301496744155884
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "henri_matisse/henri_matisse_0065.jpg",
+    "label": 0,
+    "similarity": 0.9228785634040833
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "claude_monet/claude_monet_0040.jpg",
+    "label": 0,
+    "similarity": 0.9207307696342468
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "marc_chagall/marc_chagall_0140.jpg",
+    "label": 1,
+    "similarity": 0.9196101427078247
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "edgar_degas/edgar_degas_0564.jpg",
+    "label": 0,
+    "similarity": 0.9175833463668823
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "paul_gauguin/paul_gauguin_0111.jpg",
+    "label": 0,
+    "similarity": 0.9172804355621338
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "marc_chagall/marc_chagall_0114.jpg",
+    "label": 1,
+    "similarity": 0.9143098592758179
+  },
+  {
+    "query": "marc_chagall/marc_chagall_0107.jpg",
+    "result": "gustav_klimt/gustav_klimt_0028.jpg",
+    "label": 0,
+    "similarity": 0.9123579263687134
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "edouard_manet/edouard_manet_0065.jpg",
+    "label": 0,
+    "similarity": 0.9770740270614624
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "rembrandt/rembrandt_0053.jpg",
+    "label": 0,
+    "similarity": 0.9746754169464111
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "rembrandt/rembrandt_0014.jpg",
+    "label": 0,
+    "similarity": 0.972575843334198
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "diego_velazquez/diego_velazquez_0009.jpg",
+    "label": 0,
+    "similarity": 0.9709806442260742
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "rembrandt/rembrandt_0092.jpg",
+    "label": 0,
+    "similarity": 0.9705841541290283
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "rembrandt/rembrandt_0004.jpg",
+    "label": 0,
+    "similarity": 0.9697201251983643
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "eugene_delacroix/eugene_delacroix_0022.jpg",
+    "label": 0,
+    "similarity": 0.9675332903862
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "francisco_goya/francisco_goya_0134.jpg",
+    "label": 0,
+    "similarity": 0.9672082662582397
+  },
+  {
+    "query": "titian/titian_0009.jpg",
+    "result": "diego_velazquez/diego_velazquez_0022.jpg",
+    "label": 0,
+    "similarity": 0.9669504761695862
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0352.jpg",
+    "label": 1,
+    "similarity": 0.9559021592140198
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0143.jpg",
+    "label": 0,
+    "similarity": 0.9496610164642334
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0291.jpg",
+    "label": 1,
+    "similarity": 0.935832679271698
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0068.jpg",
+    "label": 0,
+    "similarity": 0.9328426122665405
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0039.jpg",
+    "label": 0,
+    "similarity": 0.924749493598938
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0126.jpg",
+    "label": 0,
+    "similarity": 0.9234810471534729
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0542.jpg",
+    "label": 1,
+    "similarity": 0.9210811853408813
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0125.jpg",
+    "label": 0,
+    "similarity": 0.9190000891685486
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0608.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0013.jpg",
+    "label": 1,
+    "similarity": 0.918463945388794
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0444.jpg",
+    "label": 1,
+    "similarity": 0.9597172141075134
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0354.jpg",
+    "label": 1,
+    "similarity": 0.9538382887840271
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0348.jpg",
+    "label": 1,
+    "similarity": 0.9532922506332397
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "edgar_degas/edgar_degas_0113.jpg",
+    "label": 0,
+    "similarity": 0.9486371874809265
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "edvard_munch/edvard_munch_0065.jpg",
+    "label": 0,
+    "similarity": 0.9484151601791382
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "edgar_degas/edgar_degas_0665.jpg",
+    "label": 0,
+    "similarity": 0.9457719922065735
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0383.jpg",
+    "label": 1,
+    "similarity": 0.9413011074066162
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0316.jpg",
+    "label": 1,
+    "similarity": 0.9401153922080994
+  },
+  {
+    "query": "vincent_van_gogh/vincent_van_gogh_0841.jpg",
+    "result": "pablo_picasso/pablo_picasso_0011.jpg",
+    "label": 0,
+    "similarity": 0.939978837966919
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "paul_gauguin/paul_gauguin_0040.jpg",
+    "label": 0,
+    "similarity": 0.9407075643539429
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "gustav_klimt/gustav_klimt_0015.jpg",
+    "label": 1,
+    "similarity": 0.932402491569519
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "gustav_klimt/gustav_klimt_0087.jpg",
+    "label": 1,
+    "similarity": 0.9300010800361633
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "andy_warhol/andy_warhol_0117.jpg",
+    "label": 0,
+    "similarity": 0.9286091327667236
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "gustav_klimt/gustav_klimt_0113.jpg",
+    "label": 1,
+    "similarity": 0.9269013404846191
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "gustav_klimt/gustav_klimt_0039.jpg",
+    "label": 1,
+    "similarity": 0.9252264499664307
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "joan_miro/joan_miro_0096.jpg",
+    "label": 0,
+    "similarity": 0.9217256307601929
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "gustav_klimt/gustav_klimt_0070.jpg",
+    "label": 1,
+    "similarity": 0.9212796092033386
+  },
+  {
+    "query": "gustav_klimt/gustav_klimt_0014.jpg",
+    "result": "gustav_klimt/gustav_klimt_0032.jpg",
+    "label": 1,
+    "similarity": 0.9183518886566162
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "camille_pissarro/camille_pissarro_0086.jpg",
+    "label": 0,
+    "similarity": 0.9273805022239685
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0059.jpg",
+    "label": 0,
+    "similarity": 0.9131435751914978
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "paul_gauguin/paul_gauguin_0001.jpg",
+    "label": 0,
+    "similarity": 0.9109677672386169
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "camille_pissarro/camille_pissarro_0044.jpg",
+    "label": 0,
+    "similarity": 0.910333514213562
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "alfred_sisley/alfred_sisley_0051.jpg",
+    "label": 0,
+    "similarity": 0.9094715714454651
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "camille_pissarro/camille_pissarro_0003.jpg",
+    "label": 0,
+    "similarity": 0.9037393927574158
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0603.jpg",
+    "label": 0,
+    "similarity": 0.9025815725326538
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "pierre_auguste_renoir/pierre_auguste_renoir_0034.jpg",
+    "label": 0,
+    "similarity": 0.8991286158561707
+  },
+  {
+    "query": "gustave_courbet/gustave_courbet_0048.jpg",
+    "result": "paul_gauguin/paul_gauguin_0085.jpg",
+    "label": 0,
+    "similarity": 0.8989422917366028
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0048.jpg",
+    "label": 1,
+    "similarity": 0.9441629648208618
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0293.jpg",
+    "label": 1,
+    "similarity": 0.94399094581604
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "peter_paul_rubens/peter_paul_rubens_0043.jpg",
+    "label": 0,
+    "similarity": 0.9401887655258179
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "mikhail_vrubel/mikhail_vrubel_0140.jpg",
+    "label": 0,
+    "similarity": 0.9394865036010742
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0076.jpg",
+    "label": 1,
+    "similarity": 0.9394274950027466
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0244.jpg",
+    "label": 1,
+    "similarity": 0.9388630390167236
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0149.jpg",
+    "label": 1,
+    "similarity": 0.937873125076294
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0057.jpg",
+    "label": 1,
+    "similarity": 0.9371528625488281
+  },
+  {
+    "query": "albrecht_duerer/albrecht_duerer_0133.jpg",
+    "result": "albrecht_duerer/albrecht_duerer_0324.jpg",
+    "label": 1,
+    "similarity": 0.9336779713630676
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "pablo_picasso/pablo_picasso_0329.jpg",
+    "label": 0,
+    "similarity": 0.9649627208709717
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0014.jpg",
+    "label": 1,
+    "similarity": 0.9619262218475342
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0107.jpg",
+    "label": 1,
+    "similarity": 0.9597918391227722
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0153.jpg",
+    "label": 1,
+    "similarity": 0.9596363306045532
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0121.jpg",
+    "label": 1,
+    "similarity": 0.9585726261138916
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0158.jpg",
+    "label": 1,
+    "similarity": 0.9583272337913513
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "frida_kahlo/frida_kahlo_0011.jpg",
+    "label": 0,
+    "similarity": 0.9580080509185791
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0102.jpg",
+    "label": 1,
+    "similarity": 0.9578086137771606
+  },
+  {
+    "query": "amedeo_modigliani/amedeo_modigliani_0105.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0110.jpg",
+    "label": 1,
+    "similarity": 0.9568471908569336
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0114.jpg",
+    "label": 1,
+    "similarity": 0.981207013130188
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0029.jpg",
+    "label": 1,
+    "similarity": 0.966310977935791
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0012.jpg",
+    "label": 1,
+    "similarity": 0.9662107825279236
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0032.jpg",
+    "label": 1,
+    "similarity": 0.9654691815376282
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "sandro_botticelli/sandro_botticelli_0041.jpg",
+    "label": 0,
+    "similarity": 0.9636148810386658
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "sandro_botticelli/sandro_botticelli_0045.jpg",
+    "label": 0,
+    "similarity": 0.9624179005622864
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "michelangelo/michelangelo_0009.jpg",
+    "label": 0,
+    "similarity": 0.962299108505249
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0059.jpg",
+    "label": 1,
+    "similarity": 0.9620234966278076
+  },
+  {
+    "query": "giotto_di_bondone/giotto_di_bondone_0019.jpg",
+    "result": "giotto_di_bondone/giotto_di_bondone_0096.jpg",
+    "label": 1,
+    "similarity": 0.9609280824661255
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "salvador_dali/salvador_dali_0072.jpg",
+    "label": 0,
+    "similarity": 0.9386585354804993
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0097.jpg",
+    "label": 1,
+    "similarity": 0.9331313967704773
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "pablo_picasso/pablo_picasso_0243.jpg",
+    "label": 0,
+    "similarity": 0.9328780174255371
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0095.jpg",
+    "label": 1,
+    "similarity": 0.932633638381958
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "andy_warhol/andy_warhol_0038.jpg",
+    "label": 0,
+    "similarity": 0.9294919371604919
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "rene_magritte/rene_magritte_0009.jpg",
+    "label": 0,
+    "similarity": 0.9241280555725098
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0121.jpg",
+    "label": 1,
+    "similarity": 0.923054575920105
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "rene_magritte/rene_magritte_0084.jpg",
+    "label": 0,
+    "similarity": 0.921784520149231
+  },
+  {
+    "query": "kazimir_malevich/kazimir_malevich_0003.jpg",
+    "result": "kazimir_malevich/kazimir_malevich_0089.jpg",
+    "label": 1,
+    "similarity": 0.9210162162780762
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "henri_de_toulouse_lautrec/henri_de_toulouse_lautrec_0006.jpg",
+    "label": 0,
+    "similarity": 0.9325689077377319
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "edgar_degas/edgar_degas_0640.jpg",
+    "label": 1,
+    "similarity": 0.9271416664123535
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "pablo_picasso/pablo_picasso_0250.jpg",
+    "label": 0,
+    "similarity": 0.9217427372932434
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0106.jpg",
+    "label": 0,
+    "similarity": 0.9076844453811646
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "paul_gauguin/paul_gauguin_0297.jpg",
+    "label": 0,
+    "similarity": 0.904629111289978
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "vincent_van_gogh/vincent_van_gogh_0576.jpg",
+    "label": 0,
+    "similarity": 0.9005659818649292
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "edgar_degas/edgar_degas_0488.jpg",
+    "label": 1,
+    "similarity": 0.8979640007019043
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "edgar_degas/edgar_degas_0512.jpg",
+    "label": 1,
+    "similarity": 0.8912832736968994
+  },
+  {
+    "query": "edgar_degas/edgar_degas_0071.jpg",
+    "result": "amedeo_modigliani/amedeo_modigliani_0057.jpg",
+    "label": 0,
+    "similarity": 0.8898488283157349
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "joan_miro/joan_miro_0027.jpg",
+    "label": 1,
+    "similarity": 0.9825892448425293
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "andy_warhol/andy_warhol_0172.jpg",
+    "label": 0,
+    "similarity": 0.9788081645965576
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "andy_warhol/andy_warhol_0010.jpg",
+    "label": 0,
+    "similarity": 0.9787067174911499
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "joan_miro/joan_miro_0099.jpg",
+    "label": 1,
+    "similarity": 0.977515459060669
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "piet_mondrian/piet_mondrian_0040.jpg",
+    "label": 0,
+    "similarity": 0.9765252470970154
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "joan_miro/joan_miro_0078.jpg",
+    "label": 1,
+    "similarity": 0.9746955633163452
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "joan_miro/joan_miro_0082.jpg",
+    "label": 1,
+    "similarity": 0.9733498096466064
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "joan_miro/joan_miro_0080.jpg",
+    "label": 1,
+    "similarity": 0.9698447585105896
+  },
+  {
+    "query": "joan_miro/joan_miro_0028.jpg",
+    "result": "andy_warhol/andy_warhol_0101.jpg",
+    "label": 0,
+    "similarity": 0.9651859402656555
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "titian/titian_0151.jpg",
+    "label": 0,
+    "similarity": 0.972019374370575
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "raphael/raphael_0070.jpg",
+    "label": 1,
+    "similarity": 0.9710131883621216
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "raphael/raphael_0045.jpg",
+    "label": 1,
+    "similarity": 0.9687873125076294
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "raphael/raphael_0067.jpg",
+    "label": 1,
+    "similarity": 0.967249870300293
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "raphael/raphael_0010.jpg",
+    "label": 1,
+    "similarity": 0.9655454754829407
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "rembrandt/rembrandt_0027.jpg",
+    "label": 0,
+    "similarity": 0.9639663696289062
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "titian/titian_0162.jpg",
+    "label": 0,
+    "similarity": 0.9630262851715088
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "raphael/raphael_0080.jpg",
+    "label": 1,
+    "similarity": 0.9629180431365967
+  },
+  {
+    "query": "raphael/raphael_0088.jpg",
+    "result": "titian/titian_0134.jpg",
+    "label": 0,
+    "similarity": 0.9618371725082397
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "andy_warhol/andy_warhol_0150.jpg",
+    "label": 0,
+    "similarity": 0.900554895401001
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "rene_magritte/rene_magritte_0111.jpg",
+    "label": 1,
+    "similarity": 0.8958977460861206
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "rene_magritte/rene_magritte_0037.jpg",
+    "label": 1,
+    "similarity": 0.8907793760299683
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "frida_kahlo/frida_kahlo_0043.jpg",
+    "label": 0,
+    "similarity": 0.8901879787445068
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "pablo_picasso/pablo_picasso_0142.jpg",
+    "label": 0,
+    "similarity": 0.8767111301422119
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "rene_magritte/rene_magritte_0162.jpg",
+    "label": 1,
+    "similarity": 0.8757425546646118
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "pablo_picasso/pablo_picasso_0439.jpg",
+    "label": 0,
+    "similarity": 0.8688504695892334
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "frida_kahlo/frida_kahlo_0078.jpg",
+    "label": 0,
+    "similarity": 0.8627684116363525
+  },
+  {
+    "query": "rene_magritte/rene_magritte_0154.jpg",
+    "result": "pablo_picasso/pablo_picasso_0318.jpg",
+    "label": 0,
+    "similarity": 0.861880362033844
+  }
+]

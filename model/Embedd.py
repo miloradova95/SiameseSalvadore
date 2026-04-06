@@ -9,10 +9,9 @@ from model.SiameseNetwork import SiameseNetwork
 from preprocessing.transforms import get_eval_transforms
 from backend.db.chroma_client import get_chroma_client, get_or_create_collection
 
-
+# Embedds for now all images into the database, test, train and validations are not embedded sperately for this Poc
 # Paths / Settings 
 MODEL_PATH = "./model/trainedModel.pth"
-CSV_PATH = "./dataset/processed/splits/train.csv"
 IMAGE_ROOT = "./dataset/processed/images"
 
 CHROMA_PATH = "./data/chroma_store"
@@ -38,7 +37,19 @@ def load_model(device):
 
 # Load Data
 def load_data():
-    df = pd.read_csv(CSV_PATH)
+    splits = ["train.csv", "val.csv", "test.csv"]
+
+    dfs = []
+    for split in splits:
+        path = os.path.join("./dataset/processed/splits", split)
+        print(f"Loading {split}...")
+        dfs.append(pd.read_csv(path))
+
+    df = pd.concat(dfs, ignore_index=True)
+    df = df.drop_duplicates(subset=["image_path"])
+
+    print(f"Total unique images: {len(df)}")
+
     transform = get_eval_transforms()
     return df, transform
 

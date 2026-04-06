@@ -12,7 +12,7 @@ from PIL import Image
 
 # ── Settings ─────────────────────────────────────────────
 MODEL_PATH = "./model/trainedModel.pth"
-CSV_PATH = "./dataset/processed/splits/train.csv"
+CSV_PATH = "./dataset/processed/splits/test.csv"
 IMAGE_ROOT = "./dataset/processed/images"
 
 CHROMA_PATH = "./data/chroma_store"
