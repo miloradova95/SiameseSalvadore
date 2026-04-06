@@ -13,8 +13,8 @@ MODEL_PATH = "./model/trainedModel.pth"
 CHROMA_PATH = "./data/chroma_store"
 COLLECTION_NAME = "paintings"
 
-QUERY_IMAGE = "./dataset/processed/images/claude_monet/claude_monet_0001.jpg"
-TOP_K = 10
+QUERY_IMAGE = "./dataset/processed/images/albrecht_duerer/albrecht_duerer_0001.jpg"
+TOP_K = 5
 
 
 #  Device 
