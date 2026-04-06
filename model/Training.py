@@ -1,6 +1,6 @@
 import torch
 from model.SiameseNetwork import SiameseNetwork
-from model.ContrastiveLoss import ContrastiveLoss
+from model.TripletLoss import TripletLoss
 from preprocessing.transforms import get_train_transforms
 from preprocessing.helpers import get_dataloader
 from tqdm import tqdm
@@ -10,14 +10,16 @@ def train_one_epoch(model, dataloader, optimizer, criterion, device):
     total_loss = 0
 
     pbar = tqdm(dataloader, desc="Training", unit="batch")
-    for img1, img2, label in tqdm(dataloader, desc="Training", unit="batch"):
-        img1 = img1.to(device)
-        img2 = img2.to(device)
-        label = label.float().to(device)
+    for anchor, positive, negative in pbar:
+        anchor = anchor.to(device)
+        positive = positive.to(device)
+        negative = negative.to(device)
 
-        emb1, emb2 = model(img1, img2)
+        emb_anchor = model.forward_once(anchor)
+        emb_positive = model.forward_once(positive)
+        emb_negative = model.forward_once(negative)
 
-        loss = criterion(emb1, emb2, label)
+        loss = criterion(emb_anchor, emb_positive, emb_negative)
 
         optimizer.zero_grad()
         loss.backward()
@@ -37,13 +39,15 @@ def setup():
     device = get_device()
 
     model = SiameseNetwork().to(device)
-    criterion = ContrastiveLoss(margin=1.0)
+    criterion = TripletLoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-4)
 
     train_loader = get_dataloader(
         "./dataset/processed/splits/train.csv",
         "./dataset/processed/images",
-        get_train_transforms()
+        get_train_transforms(),
+        mode="triplet",
+        batch_size=16
     )
     
     train_one_epoch(model, train_loader, optimizer, criterion, device)
@@ -55,7 +59,7 @@ MODEL_PATH = "./model/trainedModel.pth"
 def main():
     model, criterion, optimizer, train_loader, device = setup()
 
-    for epoch in range(5):
+    for epoch in range(4):
         loss = train_one_epoch(model, train_loader, optimizer, criterion, device)
         print(f"Epoch {epoch+1}, Loss: {loss:.4f}")
         
