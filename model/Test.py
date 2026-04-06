@@ -10,7 +10,7 @@ import os
 # Threshold from threshold.py
 THRESHOLD = 0.6030
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-MODEL_PATH = "./model/trainedModel.pt"
+MODEL_PATH = "./model/trainedModel.pth"
 
 # Number of pairs to show
 NUM_PAIRS = 3

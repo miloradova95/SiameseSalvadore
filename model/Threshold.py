@@ -73,7 +73,7 @@ if __name__ == "__main__":
 
     # Load model
     model = SiameseNetwork(embedding_dim=128).to(DEVICE)
-    model_path = "./model/trainedModel.pt"
+    model_path = "./model/trainedModel.pth"
     if os.path.exists(model_path):
         model.load_state_dict(torch.load(model_path, map_location=DEVICE))
         print("Loaded trained model weights!")
