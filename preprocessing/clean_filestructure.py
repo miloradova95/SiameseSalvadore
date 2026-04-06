@@ -4,8 +4,8 @@ import unicodedata
 import re
 from collections import defaultdict
 
-ROOT_DIR = "../dataset/archive/resized/resized"
-OUTPUT_DIR = "../dataset/archive/processed/images"
+ROOT_DIR = "./dataset/resized/resized"
+OUTPUT_DIR = "./dataset/processed/images"
 
 
 # Step 1: Flatten nested folder (resized/resized)
