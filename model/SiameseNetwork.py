@@ -44,3 +44,6 @@ class SiameseNetwork(nn.Module):
         emb2 = self.forward_once(img2)
         return emb1, emb2
     
+    def get_embedding(self, x):
+        return self.forward_once(x)
+    

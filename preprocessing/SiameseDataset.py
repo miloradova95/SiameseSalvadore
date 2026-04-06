@@ -90,9 +90,12 @@ class SiameseDataset(Dataset):
         else:
             # --- Negative pair (different artist) ---
             pair_label = 0
+            
+            # sample multiple candidates and pick one randomly
+            negative_labels = random.sample(self.labels, k=10)
+            negative_labels = [l for l in negative_labels if l != anchor_label]
 
-            # Choose a different artist
-            negative_label = random.choice(self.labels)
+            negative_label = random.choice(negative_labels)
             while negative_label == anchor_label:
                 negative_label = random.choice(self.labels)
 
