@@ -50,7 +50,7 @@ def setup():
 
     return model, criterion, optimizer, train_loader, device
 
-MODEL_PATH = "./model/trainedModel.pt"
+MODEL_PATH = "./model/trainedModel.pth"
 
 def main():
     model, criterion, optimizer, train_loader, device = setup()
