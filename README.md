@@ -12,3 +12,8 @@ A Basic AI-Powered Morphological Retrieval Tool for Art History. Using Siamese N
 6. Run example.py to test the siamese data pipeline. This example utilizes the created helpers for image transformation and siamese image pair creation which can be used directly for training the model.
    -  Pairs are generated dynamically for training
    -  images are transformed with some randomness between epochs to improve model generalization. 
+
+# Basic Model Setup
+1. Run Training.py (creates trainedModel.pt)
+2. Run Threshold.py
+3. Run Test.py

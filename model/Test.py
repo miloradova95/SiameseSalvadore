@@ -24,9 +24,9 @@ def denormalize(img_tensor):
     img = img_tensor * std + mean
     return img.permute(1, 2, 0).cpu().numpy().clip(0, 1)
 
-def show_pair_subplot(a_img, b_img, y_label, pred_label, dist_value, ax_row, a_name="", b_name=""):
+def show_pair_subplot(a_img, b_img, sfam_map, y_label, pred_label, dist_value, ax_row, a_name="", b_name=""):
     """
-    Display a pair of images in a subplot
+    Display a pair of images and SFAM overlay in a subplot
     """
     a_img = denormalize(a_img)
     b_img = denormalize(b_img)
@@ -38,6 +38,11 @@ def show_pair_subplot(a_img, b_img, y_label, pred_label, dist_value, ax_row, a_n
     ax_row[1].imshow(b_img)
     ax_row[1].set_title(f"Pred: {pred_label.item()} | True: {y_label.item()}\nDist: {dist_value:.2f}\n{b_name}")
     ax_row[1].axis('off')
+
+    ax_row[2].imshow(b_img)
+    ax_row[2].imshow(sfam_map.squeeze(0).cpu().numpy(), cmap="jet", alpha=0.9, vmin=THRESHOLD, vmax=1)
+    ax_row[2].set_title(f"SFAM overlay\nDistance: {dist_value:.2f}")
+    ax_row[2].axis('off')
 
 def main():
     # Load validation/test dataloader
@@ -55,8 +60,8 @@ def main():
     model.eval()
 
     pairs_shown = 0
-    fig, axes = plt.subplots(NUM_PAIRS, 2, figsize=(8, NUM_PAIRS*3))
-    axes = axes.reshape(NUM_PAIRS, 2)  # Ensure axes is 2D
+    fig, axes = plt.subplots(NUM_PAIRS, 3, figsize=(12, NUM_PAIRS*3))
+    axes = axes.reshape(NUM_PAIRS, 3)  # Ensure axes is 2D
 
     for batch in val_loader:
         # Unpack depending on your dataloader
@@ -70,7 +75,7 @@ def main():
         a, b, y = a.to(DEVICE), b.to(DEVICE), y.to(DEVICE)
 
         with torch.no_grad():
-            emb1, emb2 = model(a, b)
+            emb1, emb2, sfam = model.forward_with_sfam(a, b, output_size=a.shape[-2:])
             dist = F.pairwise_distance(emb1, emb2)
             pred = (dist < THRESHOLD).int()
 
@@ -80,7 +85,7 @@ def main():
 
             # Show pair in subplot
             show_pair_subplot(
-                a[i], b[i], y[i], pred[i], dist[i],
+                a[i], b[i], sfam[i], y[i], pred[i], dist[i],
                 axes[pairs_shown],
                 a_name=a_names[i] if a_names else "",
                 b_name=b_names[i] if b_names else ""
