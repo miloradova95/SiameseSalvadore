@@ -13,7 +13,7 @@ MODEL_PATH = "./model/trainedModel.pth"
 CHROMA_PATH = "./data/chroma_store"
 COLLECTION_NAME = "paintings"
 
-QUERY_IMAGE = "./dataset/processed/images/albrecht_duerer/albrecht_duerer_0001.jpg"
+QUERY_IMAGE = "./dataset/processed/images/paul_cezanne/paul_cezanne_0001.jpg"
 TOP_K = 5
 
 
@@ -49,9 +49,12 @@ def embed_image(image_path, model, device):
 def search_similar(collection, query_embedding):
     results = collection.query(
         query_embeddings=[query_embedding],
-        n_results=TOP_K,
+        n_results=TOP_K + 1,  # Get one extra to exclude the query image itself
         include=["metadatas", "distances"]
     )
+    # Exclude the first result (the query image itself)
+    results["metadatas"][0] = results["metadatas"][0][1:]
+    results["distances"][0] = results["distances"][0][1:]
     return results
 
 

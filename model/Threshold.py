@@ -6,7 +6,7 @@ import os
 
 from model.SiameseNetwork import SiameseNetwork
 from preprocessing.helpers import get_dataloader
-from preprocessing.transforms import get_train_transforms
+from preprocessing.transforms import get_eval_transforms
 
 def compute_best_threshold(model, val_loader, device="cpu", plot=True):
     """
@@ -29,7 +29,7 @@ def compute_best_threshold(model, val_loader, device="cpu", plot=True):
     with torch.no_grad():
         for a, b, y in val_loader:
             a, b = a.to(device), b.to(device)
-            y = y.to(device)
+            y = y.to(device).view(-1)
 
             emb1, emb2 = model(a, b)
             dist = F.pairwise_distance(emb1, emb2)
@@ -81,7 +81,8 @@ if __name__ == "__main__":
     val_loader = get_dataloader(
         "./dataset/processed/splits/val.csv",
         "./dataset/processed/images",
-        get_train_transforms()
+        get_eval_transforms(),
+        mode="pair"
     )
 
     compute_best_threshold(model, val_loader, DEVICE)
