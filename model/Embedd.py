@@ -11,7 +11,7 @@ from backend.db.chroma_client import get_chroma_client, get_or_create_collection
 
 # Embedds for now all images into the database, test, train and validations are not embedded sperately for this Poc
 # Paths / Settings 
-MODEL_PATH = "./model/trainedModel.pth"
+MODEL_PATH = "./model/fineTunedModel.pth"
 IMAGE_ROOT = "./dataset/processed/images"
 
 CHROMA_PATH = "./data/chroma_store"

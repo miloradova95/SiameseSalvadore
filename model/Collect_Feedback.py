@@ -76,7 +76,7 @@ def overlay_heatmap(image, heatmap):
     colored = Image.fromarray((colored * 255).astype("uint8"))
     colored = colored.resize(image.size)
 
-    overlay = 0.6 * np.array(image) + 0.4 * np.array(colored)
+    overlay = 0.2 * np.array(image) + 0.8 * np.array(colored)
     return overlay.astype(np.uint8)
 
 

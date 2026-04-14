@@ -13,12 +13,6 @@ A Basic AI-Powered Morphological Retrieval Tool for Art History. Using Siamese N
    -  Pairs are generated dynamically for training
    -  images are transformed with some randomness between epochs to improve model generalization. 
 
-# Basic Model Setup
-1. Run Training.py (creates trainedModel.pth)
-2. Run Threshold.py
-3. Run Test.py
-4. 
-
 ## Flow
 
 ```

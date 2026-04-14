@@ -9,7 +9,7 @@ from backend.db.chroma_client import get_chroma_client, get_or_create_collection
 
 
 #  Settings 
-MODEL_PATH = "./model/trainedModel.pth"
+MODEL_PATH = "./model/fineTunedModel.pth"
 CHROMA_PATH = "./data/chroma_store"
 COLLECTION_NAME = "paintings"
 
