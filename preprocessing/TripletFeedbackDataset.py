@@ -5,7 +5,7 @@ from PIL import Image
 import random
 
 class TripletFeedbackDataset(Dataset):
-    def __init__(self, json_path, root_dir, df, transform=None):
+    def __init__(self, json_path, root_dir, df, transform=None, k_triplets=1):
         import json
 
         with open(json_path, "r") as f:
@@ -32,6 +32,7 @@ class TripletFeedbackDataset(Dataset):
         self.label_map = self.build_label_map()
 
         self.queries = list(self.groups.keys())
+        self.k_triplets = max(1, k_triplets)
 
     def build_label_map(self):
         label_map = {}
@@ -48,10 +49,13 @@ class TripletFeedbackDataset(Dataset):
         return label_map
 
     def __len__(self):
-        return len(self.queries)
+        return len(self.queries) * self.k_triplets
 
     def __getitem__(self, idx):
-        query = self.queries[idx]
+        query_idx = idx // self.k_triplets
+        triplet_slot = idx % self.k_triplets
+
+        query = self.queries[query_idx]
         group = self.groups[query]
 
         # anchor
@@ -66,16 +70,29 @@ class TripletFeedbackDataset(Dataset):
             pos_path = random.choice(self.label_map[label])
 
         # ── NEGATIVE ──
+        # When k_triplets > 1: rotate through distinct negatives from the feedback
+        # group across k slots (seeded by query_idx for deterministic diversity).
+        # Falls back to diverse random artists when the group has no labeled negatives.
         if len(group["neg"]) > 0:
-            neg_path = random.choice(group["neg"])
+            if self.k_triplets > 1:
+                rng = random.Random(query_idx)
+                candidates = list(group["neg"])
+                rng.shuffle(candidates)
+                neg_path = candidates[triplet_slot % len(candidates)]
+            else:
+                neg_path = random.choice(group["neg"])
         else:
-            # fallback: random other artist
+            # fallback: different artist, diverse across k slots
             label = self.get_label(query)
+            other_labels = [l for l in self.label_map.keys() if l != label]
 
-            other_labels = list(self.label_map.keys())
-            other_labels.remove(label)
+            if self.k_triplets > 1:
+                rng = random.Random(query_idx)
+                rng.shuffle(other_labels)
+                neg_label = other_labels[triplet_slot % len(other_labels)]
+            else:
+                neg_label = random.choice(other_labels)
 
-            neg_label = random.choice(other_labels)
             neg_path = random.choice(self.label_map[neg_label])
 
         positive = self.load(pos_path)

@@ -10,8 +10,8 @@ from preprocessing.TripletFeedbackDataset import TripletFeedbackDataset
 
 
 # ── Settings ─────────────────────────────────────────────
-MODEL_PATH = "./model/trainedModel.pth"
-MODEL_CKPT_PATH = "./model/fineTunedModel.pth"
+MODEL_PATH = "./model/biasedModel.pth"
+MODEL_CKPT_PATH = "./model/biasedfineTunedModel.pth"
 
 FEEDBACK_PATH = "./model/feedback.json"
 CSV_PATH = "./dataset/processed/splits/val.csv"
@@ -19,7 +19,8 @@ IMAGE_ROOT = "./dataset/processed/images"
 
 EPOCHS = 3
 BATCH_SIZE = 16
-LR = 1e-6 
+LR = 1e-6
+K_TRIPLETS = 3  # triplets generated per query image per epoch (increase for more data)
 
 
 #  Device 
@@ -48,7 +49,8 @@ def setup():
         FEEDBACK_PATH,
         IMAGE_ROOT,
         df,
-        transform=get_train_transforms()
+        transform=get_train_transforms(),
+        k_triplets=K_TRIPLETS
     )
 
     loader = DataLoader(dataset, batch_size=BATCH_SIZE, shuffle=True)
@@ -85,8 +87,9 @@ def train_one_epoch(model, loader, optimizer, criterion, device):
 def main():
     model, criterion, optimizer, loader, device = setup()
 
-    if len(loader.dataset) < 75:
-        print(f"Not enough Triplets collected to reasonably finetune the model. Tripplets collected: {len(loader.dataset)}")
+    n_queries = len(loader.dataset) // K_TRIPLETS
+    if n_queries < 75:
+        print(f"Not enough Triplets collected to reasonably finetune the model. Tripplets collected: {n_queries}")
         return
     
     print(f"Fine-tuning on {len(loader.dataset)} triplets")

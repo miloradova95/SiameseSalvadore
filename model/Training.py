@@ -42,12 +42,15 @@ def setup():
     criterion = TripletLoss()
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-4)
 
+    K_TRIPLETS = 5  # triplets generated per anchor image per epoch (increase for more data)
+
     train_loader = get_dataloader(
         "./dataset/processed/splits/train.csv",
         "./dataset/processed/images",
         get_train_transforms(),
         mode="triplet",
-        batch_size=16
+        batch_size=16,
+        k_triplets=K_TRIPLETS
     )
     
     train_one_epoch(model, train_loader, optimizer, criterion, device)

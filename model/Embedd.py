@@ -4,14 +4,14 @@ from PIL import Image
 from tqdm import tqdm
 import uuid
 import os
+import argparse
 
 from model.SiameseNetwork import SiameseNetwork
 from preprocessing.transforms import get_eval_transforms
 from backend.db.chroma_client import get_chroma_client, get_or_create_collection
 
 # Embedds for now all images into the database, test, train and validations are not embedded sperately for this Poc
-# Paths / Settings 
-MODEL_PATH = "./model/trainedModel.pth"
+# Paths / Settings
 IMAGE_ROOT = "./dataset/processed/images"
 
 CHROMA_PATH = "./data/chroma_store"
@@ -27,11 +27,11 @@ def get_device():
 
 
 # Load Model
-def load_model(device):
+def load_model(model_path, device):
     model = SiameseNetwork().to(device)
-    model.load_state_dict(torch.load(MODEL_PATH, map_location=device))
+    model.load_state_dict(torch.load(model_path, map_location=device))
     model.eval()
-    print("Model loaded")
+    print(f"Model loaded from {model_path}")
     return model
 
 
@@ -101,9 +101,14 @@ def store_embeddings(embeddings, metadatas, ids):
 
 #  Main
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model", type=str, default="./model/trainedModel.pth",
+                        help="Path to model checkpoint to embed (default: trainedModel.pth)")
+    args = parser.parse_args()
+
     device = get_device()
 
-    model = load_model(device)
+    model = load_model(args.model, device)
     df, transform = load_data()
 
     embeddings, metadatas, ids = generate_embeddings(

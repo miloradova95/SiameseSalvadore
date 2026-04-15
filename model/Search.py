@@ -9,11 +9,11 @@ from backend.db.chroma_client import get_chroma_client, get_or_create_collection
 
 
 #  Settings 
-MODEL_PATH = "./model/trainedModel.pth"
+MODEL_PATH = "./model/biasedFinetunedModel.pth"
 CHROMA_PATH = "./data/chroma_store"
 COLLECTION_NAME = "paintings"
 
-QUERY_IMAGE = "./dataset/processed/images/albrecht_duerer/albrecht_duerer_0001.jpg"
+QUERY_IMAGE = "./dataset/processed/images/frida_kahlo/frida_kahlo_0113.jpg"
 TOP_K = 5
 
 

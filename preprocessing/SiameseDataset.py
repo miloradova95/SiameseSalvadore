@@ -21,7 +21,7 @@ class SiameseDataset(Dataset):
     # - Supports optional class balancing
     
 
-    def __init__(self, csv_file, root_dir, transform=None, balance=True, mode="pair"):
+    def __init__(self, csv_file, root_dir, transform=None, balance=True, mode="pair", k_triplets=1):
         """
         Args:
             csv_file: path to CSV with columns [image_path, label]
@@ -29,6 +29,7 @@ class SiameseDataset(Dataset):
             transform: torchvision transforms (resize, augmentation, normalization)
             balance: if True → sample anchors uniformly across artists
             mode: "pair" for (anchor, pair, label) or "triplet" for (anchor, positive, negative)
+            k_triplets: number of triplets to generate per anchor image (triplet mode only)
         """
 
         self.df = pd.read_csv(csv_file)
@@ -36,6 +37,7 @@ class SiameseDataset(Dataset):
         self.transform = transform
         self.balance = balance
         self.mode = mode
+        self.k_triplets = max(1, k_triplets)
 
         # Group images by label (artist)
         self.label_to_images = {}
@@ -53,7 +55,7 @@ class SiameseDataset(Dataset):
         self.labels = list(self.label_to_images.keys())
 
     def __len__(self):
-        return len(self.df)
+        return len(self.df) * self.k_triplets
 
     def __getitem__(self, idx):
         if self.mode == "triplet":
@@ -67,7 +69,17 @@ class SiameseDataset(Dataset):
             anchor_img: anchor image
             positive_img: positive image (same artist as anchor)
             negative_img: negative image (different artist from anchor)
+
+        When k_triplets > 1:
+          - anchor_idx = idx // k_triplets pins the anchor image across k slots
+          - triplet_slot = idx % k_triplets selects which of the k negative artists to use
+          - Negative artists are pre-shuffled per anchor_idx so all k slots draw from
+            distinct artists (guaranteed diversity within a k-group)
+          - Positive is re-sampled fresh each call for additional variety
         """
+
+        anchor_idx = idx // self.k_triplets
+        triplet_slot = idx % self.k_triplets
 
         # 1. Select anchor image
 
@@ -76,26 +88,33 @@ class SiameseDataset(Dataset):
             anchor_label = random.choice(self.labels)
             anchor_path = random.choice(self.label_to_images[anchor_label])
         else:
-            # Standard sampling
-            row = self.df.iloc[idx]
+            row = self.df.iloc[anchor_idx]
             anchor_label = row["label"]
             anchor_path = row["image_path"]
 
         anchor_img = self.load_image(anchor_path)
 
-        # 2. Select positive image (same artist)
+        # 2. Select positive image (same artist, fresh sample each call)
 
-        positive_path = random.choice(self.label_to_images[anchor_label])
-        # Avoid selecting the exact same image
+        positive_path = anchor_path
         while positive_path == anchor_path:
             positive_path = random.choice(self.label_to_images[anchor_label])
         positive_img = self.load_image(positive_path)
 
         # 3. Select negative image (different artist)
+        #    When k_triplets > 1: rotate through distinct artists across k slots
+        #    using a deterministic shuffle seeded by anchor_idx so each slot
+        #    reliably maps to a different artist.
 
-        negative_label = random.choice(self.labels)
-        while negative_label == anchor_label:
-            negative_label = random.choice(self.labels)
+        other_labels = [l for l in self.labels if l != anchor_label]
+
+        if self.k_triplets > 1:
+            rng = random.Random(anchor_idx)
+            rng.shuffle(other_labels)
+            negative_label = other_labels[triplet_slot % len(other_labels)]
+        else:
+            negative_label = random.choice(other_labels)
+
         negative_path = random.choice(self.label_to_images[negative_label])
         negative_img = self.load_image(negative_path)
 

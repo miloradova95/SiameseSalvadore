@@ -13,7 +13,7 @@ from backend.db.chroma_client import get_chroma_client, get_or_create_collection
 
 
 # ── Settings ─────────────────────────────────────────────
-MODEL_PATH = "./model/trainedModel.pth"
+MODEL_PATH = "./model/biasedModel.pth"
 CSV_PATH = "./dataset/processed/splits/val.csv"
 IMAGE_ROOT = "./dataset/processed/images"
 
@@ -105,20 +105,38 @@ def main():
     
     parser = argparse.ArgumentParser()
     parser.add_argument("--no-vis", action="store_true", help="Disable visualization")
+    parser.add_argument("--artist", type=str, default=None,
+                        help="Only sample queries from this artist (e.g. frida_kahlo). "
+                             "Omit to sample randomly across all artists.")
     args = parser.parse_args()
 
     SHOW_VIS = not args.no_vis
-    
+
     device = get_device()
     model = load_model(device)
     transform = get_eval_transforms()
 
     df = pd.read_csv(CSV_PATH)
 
+    if args.artist:
+        with open("./dataset/processed/splits/label_map.json") as f:
+            label_map = json.load(f)
+        artist_key = args.artist.lower().replace(" ", "_")
+        if artist_key not in label_map:
+            print(f"Unknown artist '{args.artist}'. Available keys: {', '.join(sorted(label_map.keys()))}")
+            return
+        artist_label = label_map[artist_key]["label"]
+        df = df[df["label"] == artist_label]
+        if df.empty:
+            print(f"No images found for artist '{args.artist}' in {CSV_PATH}")
+            return
+        print(f"Collecting feedback for artist: {label_map[artist_key]['metadata']['name']} "
+              f"({len(df)} images available)\n")
+
     client = get_chroma_client(CHROMA_PATH)
     collection = get_or_create_collection(client, COLLECTION_NAME)
 
-    samples = df.sample(NUM_QUERIES)
+    samples = df.sample(min(NUM_QUERIES, len(df)))
 
     all_feedback = []
 
